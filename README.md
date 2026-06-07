@@ -1,7 +1,5 @@
-<!-- HEADER -->
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:8a2be2,100:00f0ff&height=220&section=header&text=17Zoras&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20ML%20%E2%80%A2%20DSA%20%E2%80%A2%20Vision&descAlignY=58&descAlign=50" alt="header"/>
-</a>
+<!-- HEADER — animated venom/glitch style -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:1a0533,60:8a2be2,100:00f0ff&height=250&section=header&text=17Zoras&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=00f0ff&strokeWidth=2&desc=Code%20%E2%80%A2%20ML%20%E2%80%A2%20DSA%20%E2%80%A2%20Vision&descAlignY=65&descAlign=50&descSize=20" alt="header"/>
 
 <div align="center">
 
@@ -145,11 +143,66 @@ public:
 
 ## ◈ Featured Projects
 
+```css
+/* loading projects... */
+> select * from projects where status = 'built_with_fire';
+```
+
 <div align="center">
 
-[![x_clone](https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=x_clone&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=86400)](https://github.com/17Zoras/x_clone)&nbsp;[![SCT_DS_1](https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=SCT_DS_1&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=86400)](https://github.com/17Zoras/SCT_DS_1)
-
-[![SCT_DS_2](https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=SCT_DS_2&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=86400)](https://github.com/17Zoras/SCT_DS_2)&nbsp;[![Code-Radar-Solutions](https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=Code-Radar-Solutions&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=86400)](https://github.com/17Zoras/Code-Radar-Solutions)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🐦 X Clone</h3>
+      <div align="center">
+        <a href="https://github.com/17Zoras/x_clone">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=x_clone&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=86400" width="100%"/>
+        </a>
+        <p><strong>Full Twitter/X UI clone</strong> built with raw HTML & CSS — pixel-perfect layouts, responsive design, no frameworks.</p>
+        <img src="https://img.shields.io/badge/HTML5-0f0c29?style=flat-square&logo=html5&logoColor=00f0ff"/>
+        <img src="https://img.shields.io/badge/CSS3-0f0c29?style=flat-square&logo=css3&logoColor=00f0ff"/>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 India Population Analysis</h3>
+      <div align="center">
+        <a href="https://github.com/17Zoras/SCT_DS_1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=SCT_DS_1&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=86400" width="100%"/>
+        </a>
+        <p><strong>World Bank demographic data</strong> — age distribution, population trends, visual storytelling with Python.</p>
+        <img src="https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=00f0ff"/>
+        <img src="https://img.shields.io/badge/Pandas-0f0c29?style=flat-square&logo=pandas&logoColor=8a2be2"/>
+        <img src="https://img.shields.io/badge/Matplotlib-0f0c29?style=flat-square&logo=python&logoColor=ff3cac"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚢 Titanic EDA</h3>
+      <div align="center">
+        <a href="https://github.com/17Zoras/SCT_DS_2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=SCT_DS_2&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=86400" width="100%"/>
+        </a>
+        <p><strong>Kaggle Titanic dataset</strong> — deep EDA on survival patterns by class, age, gender. Clean data, sharp insights.</p>
+        <img src="https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=00f0ff"/>
+        <img src="https://img.shields.io/badge/Seaborn-0f0c29?style=flat-square&logo=python&logoColor=8a2be2"/>
+        <img src="https://img.shields.io/badge/Jupyter-0f0c29?style=flat-square&logo=jupyter&logoColor=ff3cac"/>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ Code Radar Solutions</h3>
+      <div align="center">
+        <a href="https://github.com/17Zoras/Code-Radar-Solutions">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=Code-Radar-Solutions&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=86400" width="100%"/>
+        </a>
+        <p><strong>Competitive problem solutions</strong> — algorithmic thinking, optimized C++ & Python, clean readable code.</p>
+        <img src="https://img.shields.io/badge/C++-0f0c29?style=flat-square&logo=cplusplus&logoColor=00f0ff"/>
+        <img src="https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=8a2be2"/>
+        <img src="https://img.shields.io/badge/DSA-0f0c29?style=flat-square&logoColor=ff3cac"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
