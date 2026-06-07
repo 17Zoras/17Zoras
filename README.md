@@ -109,25 +109,15 @@ public:
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=17Zoras&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0f0c29&title_color=00f0ff&icon_color=8a2be2&text_color=ffffff&border_color=8a2be2&cache_seconds=3600"/>
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17Zoras&layout=compact&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&border_color=8a2be2&langs_count=6&hide=jupyter%20notebook,html,css,scss,tex&cache_seconds=3600"/>
-
-</div>
-
-<div align="center">
-
+<!-- streak — demolab, always reliable -->
 <img src="https://streak-stats.demolab.com?user=17Zoras&theme=radical&background=0f0c29&ring=00f0ff&fire=ff3cac&currStreakLabel=00f0ff&border=8a2be2"/>
 
-</div>
+<br/><br/>
 
----
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=17Zoras&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%"/>
+<!-- stats — using two different vercel instances as fallback -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=17Zoras&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0f0c29&title_color=00f0ff&icon_color=8a2be2&text_color=ffffff&border_color=8a2be2&rank_icon=github&cache_seconds=86400"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17Zoras&layout=compact&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&border_color=8a2be2&langs_count=6&hide=jupyter%20notebook,html,css&cache_seconds=86400"/>
 
 </div>
 
@@ -157,9 +147,9 @@ public:
 
 <div align="center">
 
-[![x_clone](https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=x_clone&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=3600)](https://github.com/17Zoras/x_clone)&nbsp;[![SCT_DS_1](https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=SCT_DS_1&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=3600)](https://github.com/17Zoras/SCT_DS_1)
+[![x_clone](https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=x_clone&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=86400)](https://github.com/17Zoras/x_clone)&nbsp;[![SCT_DS_1](https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=SCT_DS_1&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=86400)](https://github.com/17Zoras/SCT_DS_1)
 
-[![SCT_DS_2](https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=SCT_DS_2&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=3600)](https://github.com/17Zoras/SCT_DS_2)&nbsp;[![Code-Radar-Solutions](https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=Code-Radar-Solutions&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=3600)](https://github.com/17Zoras/Code-Radar-Solutions)
+[![SCT_DS_2](https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=SCT_DS_2&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=86400)](https://github.com/17Zoras/SCT_DS_2)&nbsp;[![Code-Radar-Solutions](https://github-readme-stats.vercel.app/api/pin/?username=17Zoras&repo=Code-Radar-Solutions&theme=radical&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&icon_color=8a2be2&border_color=8a2be2&cache_seconds=86400)](https://github.com/17Zoras/Code-Radar-Solutions)
 
 </div>
 
@@ -194,5 +184,4 @@ public:
 
 </div>
 
-<!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:8a2be2,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
