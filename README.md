@@ -24,7 +24,7 @@
 
 <br/>
 
-## `[01]` &nbsp; whoami.cpp
+## `[01]` &nbsp; 📡 whoami.cpp
 
 ```cpp
 // zorawar.hpp  —  do not modify. this runs on its own.
@@ -67,11 +67,11 @@ namespace Seventeen {
 
 <br/>
 
-## `[02]` &nbsp; about_me.txt
+## `[02]` &nbsp; 🔧 Garage_Log.txt
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║         FILE: about_me.txt          STATUS: OPEN         ║
+║         FILE: Garage_Log.txt          STATUS: ACTIVE     ║
 ╠══════════════════╦═══════════════════════════════════════╣
 ║  Name            ║  Zorawar Singh                        ║
 ║  Handle          ║  17Zoras                              ║
@@ -82,7 +82,7 @@ namespace Seventeen {
 ║  Competing       ║  DSA & Competitive Coding             ║
 ║  Stack           ║  C++, Python, Django, OpenCV          ║
 ║  Goal            ║  Build things that actually matter    ║
-║  Status          ║  Always in the zone ⚡                 ║
+║  Status          ║  Always in the zone ⚡                ║
 ╚══════════════════╩═══════════════════════════════════════╝
 ```
 
@@ -92,7 +92,7 @@ namespace Seventeen {
 
 <br/>
 
-## `[03]` &nbsp; skills.json
+## `[03]` &nbsp; Performance_Specs.json
 
 ```json
 {
@@ -111,7 +111,7 @@ namespace Seventeen {
 
 <br/>
 
-## `[04]` &nbsp; stack --list
+## `[04]` &nbsp; 🔱 Build Configuration --list
 
 <div align="center">
 <br/>
@@ -141,7 +141,7 @@ namespace Seventeen {
 
 <br/>
 
-## `[05]` &nbsp; projects.db
+## `[05]` &nbsp; 🔧 build_archive.db.db
 
 <div align="center">
 
@@ -225,7 +225,7 @@ ORDER  BY heat DESC;
 
 <br/>
 
-## `[06]` &nbsp; currently_running.sh
+## `[06]` &nbsp; ⚙️ active_tuning.sh
 
 ```bash
 $ ./status --verbose
@@ -247,7 +247,7 @@ $ ./status --verbose
   ↳ Making data make sense
 ─────────────────────────────────────────────
   UPTIME:  always
-  MOOD:    locked in 🔴
+  MOOD:    locked in 
 ─────────────────────────────────────────────
 ```
 
@@ -257,7 +257,7 @@ $ ./status --verbose
 
 <br/>
 
-## `[07]` &nbsp; activity.log
+## `[07]` &nbsp; 🔩 live_telemetry.log
 
 ```diff
 + Writing clean, optimized code — every single day
@@ -275,7 +275,7 @@ $ ./status --verbose
 
 <br/>
 
-## `[08]` &nbsp; stats --all
+## `[08]` &nbsp; 🏎️ diagnostics.log
 
 <div align="center">
 <br/>
@@ -294,7 +294,7 @@ $ ./status --verbose
 
 <br/>
 
-## `[09]` &nbsp; snake --contributions
+## `[09]` &nbsp; 🐍 snake --contributions
 
 <div align="center">
 <br/>
@@ -313,7 +313,7 @@ $ ./status --verbose
 
 <br/>
 
-## `[10]` &nbsp; connect --open
+## `[10]` &nbsp; 🧬 connect --open
 
 <div align="center">
 <br/>
