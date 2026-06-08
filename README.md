@@ -4,30 +4,50 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/X3YUU7Rl_98AAAAC/drift-manga.gif" width="100%" style="border-radius:8px;" alt="Drift Manga Banner"/>
+  <img src="https://media1.tenor.com/m/X3YUU7Rl_98AAAAC/drift-manga.gif" width="100%" alt="Drift Manga Banner"/>
 </div>
-
-<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=CC9933&center=true&vCenter=true&random=false&width=720&lines=yo+%E2%80%94+i'm+Zorawar+%F0%9F%8F%8E%EF%B8%8F;ML+Engineer+%7C+Full-Stack+Dev+%7C+DSA+Racer;Computer+Vision+%7C+C%2B%2B+%7C+Python;Eyes+on+the+apex%2C+hands+on+the+keys.;No+brakes+when+shipping+code.;There%27s+no+perfect+run+%E2%80%94+only+the+next+corner.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=cc9933&height=2&width=100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=17Zoras&label=PROFILE+VIEWS&color=5a3a8a&style=for-the-badge&labelColor=0c0a1e"/>
-&nbsp;
-<a href="https://github.com/17Zoras?tab=followers">
-  <img src="https://img.shields.io/github/followers/17Zoras?label=FOLLOWERS&style=for-the-badge&color=cc9933&labelColor=0c0a1e"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-FULL_THROTTLE_🏁-9a3a7a?style=for-the-badge&labelColor=0c0a1e"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=CC9933&center=true&vCenter=true&random=false&width=640&lines=ML+Engineer+%C2%B7+Full-Stack+Dev+%C2%B7+DSA+Racer;Computer+Vision+%C2%B7+C%2B%2B+%C2%B7+Python;Eyes+on+the+apex%2C+hands+on+the+keys.;There%27s+no+perfect+run+%E2%80%94+only+the+next+corner.)](https://git.io/typing-svg)
+
+<br/>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="180">
+      <img src="https://komarev.com/ghpvc/?username=17Zoras&label=views&color=0c0a1e&style=flat-square&labelColor=0c0a1e"/>
+      <br/><sub><sup><code>👁 PROFILE VIEWS</code></sup></sub>
+    </td>
+    <td align="center" width="20"><sub>·</sub></td>
+    <td align="center" width="180">
+      <a href="https://github.com/17Zoras?tab=followers">
+        <img src="https://img.shields.io/github/followers/17Zoras?label=followers&style=flat-square&color=cc9933&labelColor=0c0a1e"/>
+      </a>
+      <br/><sub><sup><code>★ FOLLOWERS</code></sup></sub>
+    </td>
+    <td align="center" width="20"><sub>·</sub></td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/India-🇮🇳-0c0a1e?style=flat-square&labelColor=0c0a1e&color=9a6aaa"/>
+      <br/><sub><sup><code>📍 LOCATION</code></sup></sub>
+    </td>
+    <td align="center" width="20"><sub>·</sub></td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/OPEN_TO_WORK-cc9933?style=flat-square&labelColor=0c0a1e"/>
+      <br/><sub><sup><code>⚡ STATUS</code></sup></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=5a3a8a&height=1&width=100%"/>
 
 </div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0a1e,50:1a1030,100:0c0a1e&height=3"/>
 
 <br/>
 
