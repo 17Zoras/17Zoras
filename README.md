@@ -1,35 +1,31 @@
-<!-- 17Zoras — Touge Racer · ML Engineer · DSA · Full-Stack -->
-
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/17Zoras/17Zoras/main/banner.gif" alt="17Zoras — No Brakes on the Downhill"/>
+<img width="100%" src="https://raw.githubusercontent.com/17Zoras/17Zoras/main/banner.gif" alt="17Zoras"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=9D6EE8&center=true&vCenter=true&random=false&width=780&lines=No+brakes+on+the+downhill.+%F0%9F%8F%81;ML+Engineer+%7C+Full-Stack+Dev+%7C+DSA+Racer;Computer+Vision+%7C+C%2B%2B+%7C+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=9D6EE8&center=true&vCenter=true&random=false&width=780&lines=ML+Engineer+%7C+Full-Stack+Dev+%7C+DSA+Racer;Computer+Vision+%7C+C%2B%2B+%7C+Python;No+brakes+on+the+downhill.+%F0%9F%8F%81)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=17Zoras&label=PROFILE+VIEWS&color=5a3a8a&style=flat-square&labelColor=161b22"/>
+<img src="https://komarev.com/ghpvc/?username=17Zoras&label=PROFILE+VIEWS&color=5a3a8a&style=flat-square&labelColor=0d1117"/>
 &nbsp;
 <a href="https://github.com/17Zoras?tab=followers">
-  <img src="https://img.shields.io/github/followers/17Zoras?label=FOLLOWERS&style=flat-square&color=5a3a8a&labelColor=161b22"/>
+  <img src="https://img.shields.io/github/followers/17Zoras?label=FOLLOWERS&style=flat-square&color=5a3a8a&labelColor=0d1117"/>
 </a>
 
 </div>
 
 ---
 
-## 🏎️ Hey, I'm Zorawar
+## `> whoami`
 
 ```cpp
 class Zorawar {
 public:
     string  name     = "Zorawar Singh";
     string  alias    = "17Zoras";
-    string  ride     = "BMW M3 E46 — built for the mountain pass";
     string  location = "India 🇮🇳";
-    string  culture  = "Sikh 🔱 | Proud | Focused";
 
     vector<string> roles = { "ML Engineer", "Full-Stack Dev", "DSA Racer (C++)" };
     vector<string> focus = { "Machine Learning", "Computer Vision", "DSA" };
@@ -39,7 +35,7 @@ public:
 
 ---
 
-## ⚙️ garage.sh — Stack
+## `> ls ./stack`
 
 <div align="center">
 
@@ -64,11 +60,15 @@ public:
 
 ---
 
-## 🗂️ projects.db — Featured Builds
+## `> cat projects.db`
+
+<div align="center">
 
 ```sql
 SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 ```
+
+</div>
 
 <table>
   <tr>
@@ -111,7 +111,7 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 
 ---
 
-## 📊 dashboard.sh — Stats
+## `> ./stats.sh`
 
 <div align="center">
 
@@ -131,41 +131,39 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 
 ---
 
-## 🐍 snake_run.sh — Contribution Trail
+## `> ./snake.sh`
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/17Zoras/17Zoras/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/17Zoras/17Zoras/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/17Zoras/17Zoras/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/17Zoras/17Zoras/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
 ---
 
-## 🔗 connect.sh — Pull Up
+## `> ./connect.sh`
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/zorawarsingh170406">
-  <img src="https://img.shields.io/badge/LinkedIn-5a3a8a?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-5a3a8a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/17Zoras">
-  <img src="https://img.shields.io/badge/GitHub-3d2060?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-3d2060?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-```
-╔══════════════════════════════════════════╗
-║  🏁  Current Mission                     ║
-║                                          ║
-║  Build Things That Hit the Redline       ║
-║  Learn Something New Every Day           ║
-║  Turn Data Into Impact                   ║
-╚══════════════════════════════════════════╝
-```
+`Build Things That Hit the Redline` &nbsp;·&nbsp; `Learn Something New Every Day` &nbsp;·&nbsp; `Turn Data Into Impact`
 
-> _"No brakes on the downhill."_ 🏁
+<br/>
+
+*"No brakes on the downhill."* 🏁
 
 </div>
 
