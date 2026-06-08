@@ -1,20 +1,19 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/17Zoras/17Zoras/main/banner.gif" alt="17Zoras — Drift · Code · ML · DSA · Redline"/>
+<img width="100%" src="https://raw.githubusercontent.com/17Zoras/17Zoras/main/banner.gif" alt="17Zoras — Drift · Code · ML · DSA · Redline"/>
 </div>
 
 <div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=17Zoras&label=SYSTEM+ACCESS&color=a855f7&style=for-the-badge&labelColor=0c0a1e"/>
-  &nbsp;
-  <a href="https://github.com/17Zoras?tab=followers">
-    <img src="https://img.shields.io/github/followers/17Zoras?label=CREW&style=for-the-badge&color=f59e0b&labelColor=0c0a1e"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-NO_BRAKES_🏁-ef4444?style=for-the-badge&labelColor=0c0a1e"/>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=17Zoras&label=SYSTEM+ACCESS&color=a855f7&style=for-the-badge&labelColor=0c0a1e"/>
+&nbsp;
+<a href="https://github.com/17Zoras?tab=followers">
+  <img src="https://img.shields.io/github/followers/17Zoras?label=CREW&style=for-the-badge&color=f59e0b&labelColor=0c0a1e"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-NO_BRAKES_🏁-ef4444?style=for-the-badge&labelColor=0c0a1e"/>
 </div>
 
 <br/>
-
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png"/>
 
 ### 🏎️ `driver_profile.cpp`
@@ -26,7 +25,7 @@ public:
     string  alias    = "17Zoras";
     string  ride     = "BMW M3 E46 — Touge Spec";
     string  location = "India 🇮🇳";
-    string  culture  = "Sikh 🔱 | Focused | Driven";
+    string  culture  = "Sikh 🔱 | Proud | Focused";
 
     vector<string> roles = {
         "ML Engineer",
@@ -59,3 +58,57 @@ int main() {
     me.say_hi();
     return 0;
 }
+
+🛠️ garage.sh — Tech Arsenal
+🏔️ dsa_vault.cpp — The Downhill Battle
+Plaintext
+
+██████╗ ███████╗ █████╗     ██╗   ██╗ █████╗ ██╗  ████████╗
+██╔══██╗██╔════╝██╔══██╗    ██║   ██║██╔══██╗██║  ╚══██╔══╝
+██║  ██║███████╗███████║    ╚██╗ ██╔╝███████║██║     ██║   
+██║  ██║╚════██║██╔══██║     ╚████╔╝ ██╔══██║███████╗██║   
+██████╔╝███████║██║  ██║      ╚═══╝  ██║  ██║╚══════╝██║   
+╚═════╝ ╚══════╝╚═╝  ╚═╝             ╚═╝  ╚═╝        ╚═╝   
+
+Corner Status             Difficulty
+------------------------------------
+Arrays & Strings          🏁 Cleared  ★★★
+  └─ [Spiral Matrix Traversal, Jagged Arrays Optimized]
+Linked Lists              🏁 Cleared  ★★☆
+Stacks & Queues           🏁 Cleared  ★★☆
+Trees & Graphs            🏁 Cleared  ★★★
+Dynamic Programming       🏁 Cleared  ★★★
+Sorting & Searching       🏁 Cleared  ★★☆
+Recursion & Backtracking  🏁 Cleared  ★★★
+Heaps & Priority Queues   🔄 Tuning   ★★★
+
+📊 dashboard.sh — Performance Stats
+📡 currently_running.sh — Now in Gear
+Plaintext
+
+$ status --live
+
+  Loading ML modules...          ████████░░  80%
+  Loading Computer Vision...     ██████░░░░  60%
+  Loading DSA (C++)...           █████████░  90%
+  Loading caffeine...            ██████████ 100% ✓
+
+✓ Target acquired. No brakes on the downhill.
+
+📂 projects.db — Featured Builds
+SQL
+
+SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
+
+📡 connect_with_me.sh — Pull Up
+Plaintext
+
+╔══════════════════════════════════════════════════╗
+║  🏁  Current Mission                             ║
+║                                                  ║
+║  Build Things That Hit the Redline               ║
+║  Learn Something New Every Day                   ║
+║  Turn Data Into Impact                           ║
+╚══════════════════════════════════════════════════╝
+
+"No brakes on the downhill." 🏁
