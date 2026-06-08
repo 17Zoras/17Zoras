@@ -123,6 +123,20 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 &nbsp;
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17Zoras&layout=compact&theme=radical&bg_color=0d1117&title_color=9D6EE8&text_color=c9b8e8&border_color=5a3a8a&langs_count=6&hide=jupyter%20notebook,html,css"/>
 
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=17Zoras&theme=react-dark&bg_color=0d1117&color=9D6EE8&line=5a3a8a&point=9D6EE8&hide_border=false&border_radius=8&area=true&area_color=3d2060)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 snake_run.sh — Contribution Trail
+
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/17Zoras/17Zoras/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
