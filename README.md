@@ -1,10 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/17Zoras/17Zoras/main/banner.gif" alt="17Zoras — No Brakes on the Downhill"/>
+<img width="100%" src="https://raw.githubusercontent.com/17Zoras/17Zoras/main/banner.gif" alt="17Zoras"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=9D6EE8&center=true&vCenter=true&random=false&width=800&lines=hey%2C+i'm+Zorawar+%F0%9F%91%BE;ML+Engineer+%7C+Full-Stack+Dev+%7C+DSA+Racer+%E2%9A%A1;Computer+Vision+%7C+C%2B%2B+%7C+Python+%F0%9F%A7%A0;building+things+that+hit+the+redline.+%F0%9F%8F%81)](https://git.io/typing-svg)
+<a href="https://github.com/17Zoras">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0829,100:0d0d0d&height=60&text=ZORAWAR%20SINGH%20%E2%80%94%2017ZORAS&fontColor=9D6EE8&fontSize=20&fontAlign=50&fontAlignY=55&desc=CS%20Student%20%E2%86%92%20ML%20Engineer%20%7C%20Chitkara%20University&descAlign=50&descAlignY=80&descSize=11&descColor=6a3fa0&animation=fadeIn"/>
+</a>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1500&color=9D6EE8&center=true&vCenter=true&random=false&width=700&lines=ML+Engineer+%7C+Computer+Vision+%7C+Full-Stack;C%2B%2B+%7C+Python+%7C+Django+%7C+OpenCV;DSA+Racer+%E2%9A%A1+%7C+Always+Building+%F0%9F%94%A5;No+brakes+on+the+downhill.+%F0%9F%8F%81)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,114 +20,102 @@
   <img src="https://img.shields.io/github/followers/17Zoras?label=FOLLOWERS&style=flat-square&color=9D6EE8&labelColor=0d1117"/>
 </a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CS_Student-Always_Learning-3d2060?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/STATUS-always__building-9D6EE8?style=flat-square&labelColor=0d1117"/>
 
 </div>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&width=100%25"/>
+
+<br/>
 
 ## 👾 `whoami.cpp`
 
-<br/>
-
 ```cpp
-/**
- * @author  17Zoras
- * @version current
- * @status  always_building
- */
+// zorawar.hpp  —  do not modify. this runs on its own.
 
-class Zorawar {
-public:
-    const string name   = "Zorawar Singh";
-    const string alias  = "17Zoras";
+#pragma once
+#include <ambition.h>
+#include <obsession.h>
+#include <coffee.h>
 
-    vector<string> roles = {
-        "ML Engineer 🤖",
-        "Full-Stack Developer 🛠️",
-        "DSA Racer ⚡",
-        "Computer Vision Enthusiast 👁️"
+namespace Seventeen {
+
+  struct Zorawar {
+
+    const char* name  = "Zorawar Singh";
+    const char* alias = "17Zoras";
+
+    const char* stack[]  = { "C++", "Python", "Django", "OpenCV", "Flask" };
+    const char* domain[] = { "Machine Learning", "Computer Vision", "Full-Stack", "DSA" };
+
+    struct Active {
+      const char* learning  = "Deep Learning + MLOps";
+      const char* building  = "CV & full-stack projects that actually work";
+      const char* grinding  = "DSA — one problem, one pattern at a time";
+      const char* obsession = "writing code that doesn't apologise for itself";
     };
 
-    map<string, string> currently = {
-        { "learning",  "Deep Learning + MLOps"        },
-        { "building",  "CV & Full-Stack Projects"      },
-        { "grinding",  "DSA — one problem at a time"   },
-        { "obsessed",  "writing clean, fast code"      }
-    };
+    const char* motto = "No brakes on the downhill. 🏁";
 
-    string motto = "No brakes on the downhill. 🏁";
+    void run() {
+      while (alive) { think(); build(); ship(); repeat(); }
+    }
+  };
 
-    void run() { while (true) build(); }
-};
+}  // namespace Seventeen
 ```
 
 <br/>
 
----
-
-## 🗂️ `about_me.txt`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&width=100%25"/>
 
 <br/>
 
+## 📡 `about_me.txt`
+
 ```
-╔══════════════════════════════════════════════════════╗
-║           FILE: about_me.txt     STATUS: OPEN        ║
-╠═════════════════╦════════════════════════════════════╣
-║  Name           ║  Zorawar Singh                     ║
-║  Handle         ║  17Zoras                           ║
-║  Role           ║  CS Student → ML Engineer          ║
-║  Focus          ║  Machine Learning & Computer Vision║
-║  Learning       ║  Deep Learning, MLOps, DSA         ║
-║  Building       ║  Real-world AI Projects            ║
-║  Competing      ║  DSA & Competitive Coding          ║
-║  Stack          ║  C++, Python, Django, OpenCV       ║
-║  Goal           ║  Build things that actually matter ║
-║  Status         ║  Always in the zone ⚡              ║
-╚═════════════════╩════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║         FILE: about_me.txt          STATUS: OPEN         ║
+╠══════════════════╦═══════════════════════════════════════╣
+║  Name            ║  Zorawar Singh                        ║
+║  Handle          ║  17Zoras                              ║
+║  Role            ║  CS Student → ML Engineer             ║
+║  Focus           ║  Machine Learning & Computer Vision   ║
+║  Learning        ║  Deep Learning, MLOps, DSA            ║
+║  Building        ║  Real-world AI Projects               ║
+║  Competing       ║  DSA & Competitive Coding             ║
+║  Stack           ║  C++, Python, Django, OpenCV          ║
+║  Goal            ║  Build things that actually matter    ║
+║  Status          ║  Always in the zone ⚡                 ║
+╚══════════════════╩═══════════════════════════════════════╝
 ```
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&width=100%25"/>
+
+<br/>
 
 ## ⚡ `skills.json`
 
-<br/>
-
 ```json
 {
-  "languages": ["C++", "Python", "Java", "JavaScript"],
-
-  "machine_learning": [
-    "scikit-learn", "OpenCV", "NumPy",
-    "Pandas", "Matplotlib", "Seaborn"
-  ],
-
-  "web_dev": ["Django", "Flask", "HTML5", "CSS3"],
-
-  "tools_and_infra": ["Git", "GitHub", "Azure", "MySQL", "Jupyter", "VS Code"],
-
-  "currently_leveling_up": [
-    "Deep Learning 🧠",
-    "MLOps ⚙️",
-    "Advanced DSA 🔢",
-    "Computer Vision at scale 👁️"
-  ],
-
-  "soft_skills": [
-    "obsessive attention to detail",
-    "problem decomposition",
-    "shipping things that work"
-  ]
+  "languages"         : ["C++", "Python", "Java", "JavaScript"],
+  "machine_learning"  : ["scikit-learn", "OpenCV", "NumPy", "Pandas", "Matplotlib", "Seaborn"],
+  "web_dev"           : ["Django", "Flask", "HTML5", "CSS3"],
+  "tools_and_infra"   : ["Git", "GitHub", "Azure", "MySQL", "Jupyter", "VS Code"],
+  "currently_leveling": ["Deep Learning 🧠", "MLOps ⚙️", "Advanced DSA 🔢", "Computer Vision at scale 👁️"],
+  "soft_skills"       : ["obsessive attention to detail", "problem decomposition", "shipping things that work"]
 }
 ```
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&width=100%25"/>
+
+<br/>
 
 ## 🛠️ `stack --list`
 
@@ -149,9 +143,11 @@ public:
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&width=100%25"/>
 
-## 🚀 `projects.db`
+<br/>
+
+## 🗂️ `projects.db`
 
 <div align="center">
 <br/>
@@ -203,7 +199,7 @@ ORDER BY heat DESC;
     </td>
     <td width="50%" valign="top">
       <h3>⚡ Code Radar Solutions</h3>
-      <p>Competitive DSA solutions — optimized C++ & Python.<br/>Algorithmic thinking. Built to beat the clock.</p>
+      <p>Competitive DSA solutions — optimised C++ & Python.<br/>Algorithmic thinking. Built to beat the clock.</p>
       <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=9D6EE8"/>
       <img src="https://img.shields.io/badge/DSA-0d1117?style=flat-square&logoColor=9D6EE8"/>
       <br/><br/>
@@ -216,11 +212,11 @@ ORDER BY heat DESC;
 
 <br/>
 
----
-
-## 🧠 `currently_running.sh`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&width=100%25"/>
 
 <br/>
+
+## 🧠 `currently_running.sh`
 
 ```bash
 $ ./status --verbose
@@ -233,57 +229,63 @@ $ ./status --verbose
 
 [ READY  ]  System operational. Let's build.
 
-──────────────────────────────────────────
+──────────────────────────────────────────────
   ACTIVE THREADS:
   ↳ Deep Learning concepts
   ↳ Computer Vision projects
   ↳ DSA grind (C++ optimized)
   ↳ Full-Stack builds
   ↳ Making data make sense
-──────────────────────────────────────────
+──────────────────────────────────────────────
   UPTIME:  always
-  MOOD:    locked in 🎯
-──────────────────────────────────────────
+  MOOD:    locked in 🔴
+──────────────────────────────────────────────
 ```
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&width=100%25"/>
+
+<br/>
 
 ## 📋 `activity.log`
 
-<br/>
-
-```
-[✓]  Writing clean, optimized code — every single day
-[✓]  Grinding DSA — one problem, one pattern at a time
-[✓]  Building ML models that make real sense of data
-[✓]  Pushing commits, not excuses
-[✓]  Turning academic knowledge into actual projects
-[✓]  Learning something new before the day ends
-[~]  Sleeping (occasionally)
+```diff
++ Writing clean, optimized code — every single day
++ Grinding DSA — one problem, one pattern at a time
++ Building ML models that make real sense of data
++ Pushing commits, not excuses
++ Turning academic knowledge into actual projects
++ Learning something new before the day ends
+- Sleeping (occasionally)
 ```
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&width=100%25"/>
+
+<br/>
 
 ## 📈 `stats --all`
 
 <div align="center">
 <br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=17Zoras&theme=transparent&background=0d1117&ring=9D6EE8&fire=9D6EE8&currStreakLabel=9D6EE8&border=5a3a8a&sideLabels=9D6EE8&sideNums=c9b8e8&currStreakNum=c9b8e8&dates=5a3a8a&stroke=5a3a8a"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=17Zoras&theme=transparent&background=0d1117&ring=9D6EE8&fire=9D6EE8&currStreakLabel=9D6EE8&border=3d2060&sideLabels=9D6EE8&sideNums=c9b8e8&currStreakNum=c9b8e8&dates=5a3a8a&stroke=5a3a8a"/>
+&nbsp;
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=17Zoras&show_icons=true&theme=transparent&bg_color=0d1117&title_color=9D6EE8&icon_color=9D6EE8&text_color=c9b8e8&border_color=3d2060"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=17Zoras&bg_color=0d1117&color=9D6EE8&line=5a3a8a&point=9D6EE8&area=true&area_color=3d2060&border_color=5a3a8a&hide_border=false&radius=8"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=17Zoras&bg_color=0d1117&color=9D6EE8&line=3d2060&point=9D6EE8&area=true&area_color=1a0f2e&border_color=3d2060&hide_border=false&radius=4"/>
 
 </div>
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&width=100%25"/>
+
+<br/>
 
 ## 🐍 `snake --contributions`
 
@@ -300,7 +302,9 @@ $ ./status --verbose
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&width=100%25"/>
+
+<br/>
 
 ## 🔗 `connect --open`
 
@@ -308,11 +312,11 @@ $ ./status --verbose
 <br/>
 
 <a href="https://www.linkedin.com/in/zorawarsingh170406">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=9D6EE8"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=9D6EE8&labelColor=0d1117"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/17Zoras">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=9D6EE8"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=9D6EE8&labelColor=0d1117"/>
 </a>
 
 <br/><br/>
@@ -324,20 +328,16 @@ $ ./status --verbose
   ⚡  Ship. Iterate. Repeat.
 ```
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3d2060,100:5a3a8a&height=2&width=600"/>
-
 <br/><br/>
 
 *"No brakes on the downhill."* &nbsp;🏁
 
 <br/>
 
-*glad you made it to the end. now go build something. 💜*
+*You made it to the end — now go Rev Up. 🏎️💨*
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3d2060,100:5a3a8a&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0829,60:3d2060,100:5a3a8a&height=140&section=footer&animation=fadeIn"/>
