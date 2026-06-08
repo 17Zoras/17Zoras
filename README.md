@@ -118,9 +118,7 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 
 <br/><br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=17Zoras&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9D6EE8&icon_color=9D6EE8&text_color=c9b8e8&border_color=5a3a8a&rank_icon=github&hide_border=false"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17Zoras&layout=compact&theme=transparent&bg_color=0d1117&title_color=9D6EE8&text_color=c9b8e8&border_color=5a3a8a&langs_count=6&hide=jupyter%20notebook,html,css&hide_border=false"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=17Zoras&theme=2077"/>
 
 <br/><br/>
 
