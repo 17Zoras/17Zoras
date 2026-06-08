@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=CC9933&center=true&vCenter=true&random=false&width=640&lines=ML+Engineer+%C2%B7+Full-Stack+Dev+%C2%B7+DSA+Racer;Computer+Vision+%C2%B7+C%2B%2B+%C2%B7+Python;Eyes+on+the+apex%2C+hands+on+the+keys.;There%27s+no+perfect+run+%E2%80%94+only+the+next+corner.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=CC9933&center=true&vCenter=true&random=false&width=640&lines=Hey%2C+I%27m+Zorawar+%F0%9F%8F%8E%EF%B8%8F;ML+Engineer+%C2%B7+Full-Stack+Dev+%C2%B7+DSA+Racer;Computer+Vision+%C2%B7+C%2B%2B+%C2%B7+Python;Eyes+on+the+apex%2C+hands+on+the+keys.;There%27s+no+perfect+run+%E2%80%94+only+the+next+corner.)](https://git.io/typing-svg)
 
 <br/>
 
