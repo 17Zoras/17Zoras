@@ -24,7 +24,7 @@
 
 <br/>
 
-## 👾 `whoami.cpp`
+## `[01]` &nbsp; whoami.cpp
 
 ```cpp
 // zorawar.hpp  —  do not modify. this runs on its own.
@@ -67,7 +67,7 @@ namespace Seventeen {
 
 <br/>
 
-## 📡 `about_me.txt`
+## `[02]` &nbsp; about_me.txt
 
 ```
 ╔══════════════════════════════════════════════════════════╗
@@ -92,7 +92,7 @@ namespace Seventeen {
 
 <br/>
 
-## ⚡ `skills.json`
+## `[03]` &nbsp; skills.json
 
 ```json
 {
@@ -100,7 +100,7 @@ namespace Seventeen {
   "machine_learning"  : ["scikit-learn", "OpenCV", "NumPy", "Pandas", "Matplotlib", "Seaborn"],
   "web_dev"           : ["Django", "Flask", "HTML5", "CSS3"],
   "tools_and_infra"   : ["Git", "GitHub", "Azure", "MySQL", "Jupyter", "VS Code"],
-  "currently_leveling": ["Deep Learning 🧠", "MLOps ⚙️", "Advanced DSA 🔢", "Computer Vision at scale 👁️"],
+  "currently_leveling": ["Deep Learning", "MLOps", "Advanced DSA", "Computer Vision at scale"],
   "soft_skills"       : ["obsessive attention to detail", "problem decomposition", "shipping things that work"]
 }
 ```
@@ -111,7 +111,7 @@ namespace Seventeen {
 
 <br/>
 
-## 🛠️ `stack --list`
+## `[04]` &nbsp; stack --list
 
 <div align="center">
 <br/>
@@ -141,16 +141,15 @@ namespace Seventeen {
 
 <br/>
 
-## 🗂️ `projects.db`
+## `[05]` &nbsp; projects.db
 
 <div align="center">
-<br/>
 
 ```sql
 SELECT name, stack, vibe
-FROM projects
-WHERE built_with = 'fire'
-ORDER BY heat DESC;
+FROM   projects
+WHERE  built_with = 'fire'
+ORDER  BY heat DESC;
 ```
 
 </div>
@@ -160,50 +159,62 @@ ORDER BY heat DESC;
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🍔 UrbanEats Backend</h3>
-      <p>Production-grade REST API for a food delivery platform.<br/>Auth, orders, menus, real-time tracking — the full backend stack.</p>
-      <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=9D6EE8"/>
-      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9D6EE8"/>
-      <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=9D6EE8"/>
+      <br/>
+      <b>▸ UrbanEats Backend</b>
+      <br/><br/>
+      <p>REST API powering a multi-vendor food ordering system. Handles user auth, dynamic menus, order lifecycle, and delivery assignment — the full engine under the hood.</p>
+      <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=9D6EE8&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9D6EE8&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=9D6EE8&labelColor=0d1117"/>
       <br/><br/>
       <a href="https://github.com/17Zoras">
         <img src="https://img.shields.io/badge/→_View_Repo-9D6EE8?style=flat-square&logo=github&logoColor=white"/>
       </a>
+      <br/>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Guardian Angel</h3>
-      <p>Real-time safety & monitoring system.<br/>CV-powered detection meets intelligent alerting. Eyes that never blink.</p>
-      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9D6EE8"/>
-      <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=9D6EE8"/>
-      <img src="https://img.shields.io/badge/ML-0d1117?style=flat-square&logoColor=9D6EE8"/>
+      <br/>
+      <b>▸ Guardian Angel</b>
+      <br/><br/>
+      <p>Computer vision system that detects unsafe situations in real time. Combines frame-level analysis with alert logic — built to act before a human notices.</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9D6EE8&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=9D6EE8&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=9D6EE8&labelColor=0d1117"/>
       <br/><br/>
       <a href="https://github.com/17Zoras">
         <img src="https://img.shields.io/badge/→_View_Repo-9D6EE8?style=flat-square&logo=github&logoColor=white"/>
       </a>
+      <br/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏙️ Tricity Insight Bot</h3>
-      <p>Hyperlocal intelligence for Chandigarh Tricity.<br/>Scrapes, processes, and delivers data-driven city insights on demand.</p>
-      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9D6EE8"/>
-      <img src="https://img.shields.io/badge/NLP-0d1117?style=flat-square&logoColor=9D6EE8"/>
-      <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=9D6EE8"/>
+      <br/>
+      <b>▸ Tricity Insight Bot</b>
+      <br/><br/>
+      <p>Telegram bot that scrapes, processes, and serves local news and data for the Chandigarh-Mohali-Panchkula region. Ask it anything about the tri-city — it knows.</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9D6EE8&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=9D6EE8&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/NLP-0d1117?style=flat-square&logoColor=9D6EE8&labelColor=0d1117"/>
       <br/><br/>
       <a href="https://github.com/17Zoras">
         <img src="https://img.shields.io/badge/→_View_Repo-9D6EE8?style=flat-square&logo=github&logoColor=white"/>
       </a>
+      <br/>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 BotCore</h3>
-      <p>Modular bot framework built for scale.<br/>Plug-in architecture, command routing, event handling. Your bot's skeleton.</p>
-      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9D6EE8"/>
-      <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=9D6EE8"/>
-      <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=9D6EE8"/>
+      <br/>
+      <b>▸ BotCore</b>
+      <br/><br/>
+      <p>Lightweight framework for building command-driven bots. Plug-in architecture with clean routing, event hooks, and a Flask-powered webhook layer. The skeleton every bot needs.</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9D6EE8&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=9D6EE8&labelColor=0d1117"/>
+      <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=9D6EE8&labelColor=0d1117"/>
       <br/><br/>
       <a href="https://github.com/17Zoras">
         <img src="https://img.shields.io/badge/→_View_Repo-9D6EE8?style=flat-square&logo=github&logoColor=white"/>
       </a>
+      <br/>
     </td>
   </tr>
 </table>
@@ -214,7 +225,7 @@ ORDER BY heat DESC;
 
 <br/>
 
-## 🧠 `currently_running.sh`
+## `[06]` &nbsp; currently_running.sh
 
 ```bash
 $ ./status --verbose
@@ -227,17 +238,17 @@ $ ./status --verbose
 
 [ READY  ]  System operational. Let's build.
 
-──────────────────────────────────────────────
+─────────────────────────────────────────────
   ACTIVE THREADS:
   ↳ Deep Learning concepts
   ↳ Computer Vision projects
   ↳ DSA grind (C++ optimized)
   ↳ Full-Stack builds
   ↳ Making data make sense
-──────────────────────────────────────────────
+─────────────────────────────────────────────
   UPTIME:  always
   MOOD:    locked in 🔴
-──────────────────────────────────────────────
+─────────────────────────────────────────────
 ```
 
 <br/>
@@ -246,7 +257,7 @@ $ ./status --verbose
 
 <br/>
 
-## 📋 `activity.log`
+## `[07]` &nbsp; activity.log
 
 ```diff
 + Writing clean, optimized code — every single day
@@ -264,14 +275,12 @@ $ ./status --verbose
 
 <br/>
 
-## 📈 `stats --all`
+## `[08]` &nbsp; stats --all
 
 <div align="center">
 <br/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=17Zoras&theme=transparent&background=0d1117&ring=9D6EE8&fire=9D6EE8&currStreakLabel=9D6EE8&border=3d2060&sideLabels=9D6EE8&sideNums=c9b8e8&currStreakNum=c9b8e8&dates=5a3a8a&stroke=5a3a8a"/>
-&nbsp;
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=17Zoras&show_icons=true&theme=transparent&bg_color=0d1117&title_color=9D6EE8&icon_color=9D6EE8&text_color=c9b8e8&border_color=3d2060"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=17Zoras&theme=transparent&background=0d1117&ring=9D6EE8&fire=9D6EE8&currStreakLabel=9D6EE8&border=3d2060&sideLabels=9D6EE8&sideNums=c9b8e8&currStreakNum=c9b8e8&dates=5a3a8a&stroke=5a3a8a"/>
 
 <br/><br/>
 
@@ -285,7 +294,7 @@ $ ./status --verbose
 
 <br/>
 
-## 🐍 `snake --contributions`
+## `[09]` &nbsp; snake --contributions
 
 <div align="center">
 <br/>
@@ -304,7 +313,7 @@ $ ./status --verbose
 
 <br/>
 
-## 🔗 `connect --open`
+## `[10]` &nbsp; connect --open
 
 <div align="center">
 <br/>
@@ -326,16 +335,16 @@ $ ./status --verbose
   ⚡  Ship. Iterate. Repeat.
 ```
 
-<br/><br/>
+<br/>
 
-*"No brakes on the downhill."* &nbsp;🏁
+*"No brakes on the downhill."* &nbsp; 🏁
 
 <br/>
 
 *You made it to the end — now go Rev Up. 🏎️💨*
 
-</div>
-
 <br/>
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0829,60:3d2060,100:5a3a8a&height=140&section=footer&animation=fadeIn"/>
