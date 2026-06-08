@@ -318,10 +318,10 @@ $ ./status --verbose
 <br/><br/>
 
 ```
-🔥  Build things that hit the redline
-📚  Learn something new before the day ends
-📊  Turn raw data into real impact
-⚡  Ship. Iterate. Repeat.
+  🔥  Build things that hit the redline
+  📚  Learn something new before the day ends
+  📊  Turn raw data into real impact
+  ⚡  Ship. Iterate. Repeat.
 ```
 
 <br/>
