@@ -41,7 +41,7 @@ namespace Seventeen {
     const char* name  = "Zorawar Singh";
     const char* alias = "17Zoras";
 
-    const char* stack[]  = { "C++", "Python", "Django", "OpenCV", "Flask" };
+    const char* stack[]  = { "C++", "Python", "Java", "Sql" };
     const char* domain[] = { "Machine Learning", "Computer Vision", "Full-Stack", "DSA" };
 
     struct Active {
@@ -96,8 +96,8 @@ namespace Seventeen {
 
 ```json
 {
-  "languages"         : ["C++", "Python", "Java", "JavaScript"],
-  "machine_learning"  : ["scikit-learn", "OpenCV", "NumPy", "Pandas", "Matplotlib", "Seaborn"],
+  "languages"         : ["C++", "Python", "Java", "Sql"],
+  "machine_learning"  : ["scikit-learn", "RegEx", "NumPy", "Pandas", "Matplotlib", "Seaborn"],
   "web_dev"           : ["Django", "Flask", "HTML5", "CSS3"],
   "tools_and_infra"   : ["Git", "GitHub", "Azure", "MySQL", "Jupyter", "VS Code"],
   "currently_leveling": ["Deep Learning", "MLOps", "Advanced DSA", "Computer Vision at scale"],
@@ -247,7 +247,7 @@ $ ./status --verbose
   ↳ Making data make sense
 ─────────────────────────────────────────────
   UPTIME:  always
-  MOOD:    locked in 
+  MOOD:    locked in 🎯
 ─────────────────────────────────────────────
 ```
 
