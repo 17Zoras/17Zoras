@@ -114,7 +114,6 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=17Zoras&theme=transparent&background=0d1117&ring=9D6EE8&fire=9D6EE8&currStreakLabel=9D6EE8&border=5a3a8a&sideLabels=9D6EE8&sideNums=c9b8e8&currStreakNum=c9b8e8&dates=5a3a8a&stroke=5a3a8a"/>
 
 <br/><br/>
 
