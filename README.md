@@ -1,39 +1,32 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  17Zoras — Initial D / Touge Racer GitHub Profile README          -->
-<!--  Sikh BMW driver · ML Engineer · DSA Racer · Full-Stack Dev       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Upload banner.gif to your 17Zoras/17Zoras repo -->
 <img width="100%" src="https://raw.githubusercontent.com/17Zoras/17Zoras/main/banner.gif" alt="17Zoras — Drift · Code · ML · DSA · Redline"/>
 
-</div>
+<br/>
 
-<!-- TYPING BANNER -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=CC9933&center=true&vCenter=true&random=false&width=780&lines=Yo%2C+I'm+Zorawar+%F0%9F%8F%8E%EF%B8%8F;ML+Engineer+%7C+Full-Stack+Dev+%7C+DSA+Racer;Computer+Vision+%7C+C%2B%2B+%7C+Python;No+brakes+on+the+downhill.;No+sleep+til+Akina.;There%27s+no+perfect+run+%E2%80%94+only+the+next+corner.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=E8882A&center=true&vCenter=true&random=false&width=780&lines=Yo%2C+I'm+Zorawar+%F0%9F%8F%8E%EF%B8%8F;ML+Engineer+%7C+Full-Stack+Dev+%7C+DSA+Racer;No+brakes+on+the+downhill.+%F0%9F%8F%81)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=17Zoras&label=PROFILE+VIEWS&color=5a3a8a&style=for-the-badge&labelColor=0c0a1e"/>
+<img src="https://komarev.com/ghpvc/?username=17Zoras&label=PROFILE+VIEWS&color=7b4fa0&style=for-the-badge&labelColor=1a1035"/>
 &nbsp;
 <a href="https://github.com/17Zoras?tab=followers">
-  <img src="https://img.shields.io/github/followers/17Zoras?label=FOLLOWERS&style=for-the-badge&color=cc9933&labelColor=0c0a1e"/>
+  <img src="https://img.shields.io/github/followers/17Zoras?label=FOLLOWERS&style=for-the-badge&color=e8882a&labelColor=1a1035"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-NO_BRAKES_DOWNHILL_🏁-cc2233?style=for-the-badge&labelColor=0c0a1e"/>
+<img src="https://img.shields.io/badge/STATUS-NO_BRAKES_🏁-e8882a?style=for-the-badge&labelColor=1a1035"/>
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1035,50:3d1f6b,100:1a1035&height=3"/>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> `driver_profile.cpp`
+## `driver_profile.cpp`
 
 ```cpp
 class Zorawar {
@@ -44,42 +37,15 @@ public:
     string  location = "India 🇮🇳";
     string  culture  = "Sikh 🔱 | Proud | Focused";
 
-    vector<string> roles = {
-        "ML Engineer",
-        "Full-Stack Dev",
-        "DSA Racer (C++)"
-    };
-
-    vector<string> languages = {
-        "Python", "C++", "Java",
-        "JavaScript", "HTML", "CSS"
-    };
-
-    vector<string> focus = {
-        "Machine Learning",
-        "Computer Vision",
-        "Data Structures & Algorithms"
-    };
-
-    string building = "turning data & pixels into apps that hit the redline";
-    string motto    = "No brakes on the downhill.";
-    string fun_fact = "I debug at midnight, fueled by coffee and momentum ☕";
-
-    void say_hi() {
-        cout << "Welcome to the touge. Let's race some code. 🏁" << endl;
-    }
+    vector<string> roles    = { "ML Engineer", "Full-Stack Dev", "DSA Racer (C++)" };
+    vector<string> focus    = { "Machine Learning", "Computer Vision", "DSA" };
+    string         motto    = "No brakes on the downhill.";
 };
-
-int main() {
-    Zorawar me;
-    me.say_hi();
-    return 0;
-}
 ```
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/> `garage.sh` — Tech Arsenal
+## `garage.sh` — Stack
 
 <div align="center">
 
@@ -87,108 +53,62 @@ int main() {
 
 <br/><br/>
 
-**`// ENGINE — Languages`**
-
-![Python](https://img.shields.io/badge/Python-0c0a1e?style=for-the-badge&logo=python&logoColor=cc9933)
-![C++](https://img.shields.io/badge/C++-0c0a1e?style=for-the-badge&logo=cplusplus&logoColor=cc9933)
-![Java](https://img.shields.io/badge/Java-0c0a1e?style=for-the-badge&logo=openjdk&logoColor=cc9933)
-![JavaScript](https://img.shields.io/badge/JavaScript-0c0a1e?style=for-the-badge&logo=javascript&logoColor=cc9933)
-![HTML5](https://img.shields.io/badge/HTML5-0c0a1e?style=for-the-badge&logo=html5&logoColor=cc9933)
-![CSS3](https://img.shields.io/badge/CSS3-0c0a1e?style=for-the-badge&logo=css3&logoColor=cc9933)
-
-**`// TURBO — Frameworks & Libraries`**
-
-![Django](https://img.shields.io/badge/Django-0c0a1e?style=for-the-badge&logo=django&logoColor=9a6aaa)
-![Flask](https://img.shields.io/badge/Flask-0c0a1e?style=for-the-badge&logo=flask&logoColor=9a6aaa)
-![OpenCV](https://img.shields.io/badge/OpenCV-0c0a1e?style=for-the-badge&logo=opencv&logoColor=9a6aaa)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0c0a1e?style=for-the-badge&logo=scikitlearn&logoColor=9a6aaa)
-![Pandas](https://img.shields.io/badge/Pandas-0c0a1e?style=for-the-badge&logo=pandas&logoColor=9a6aaa)
-![NumPy](https://img.shields.io/badge/NumPy-0c0a1e?style=for-the-badge&logo=numpy&logoColor=9a6aaa)
-
-**`// PIT CREW — Databases & Cloud`**
-
-![MySQL](https://img.shields.io/badge/MySQL-0c0a1e?style=for-the-badge&logo=mysql&logoColor=cc9933)
-![Azure](https://img.shields.io/badge/Azure-0c0a1e?style=for-the-badge&logo=microsoftazure&logoColor=cc9933)
-
-**`// WRENCHES — Tools`**
-
-![Git](https://img.shields.io/badge/Git-0c0a1e?style=for-the-badge&logo=git&logoColor=cc2233)
-![GitHub](https://img.shields.io/badge/GitHub-0c0a1e?style=for-the-badge&logo=github&logoColor=cc2233)
-![VS Code](https://img.shields.io/badge/VS_Code-0c0a1e?style=for-the-badge&logo=visualstudiocode&logoColor=cc2233)
-![Jupyter](https://img.shields.io/badge/Jupyter-0c0a1e?style=for-the-badge&logo=jupyter&logoColor=cc2233)
+![Python](https://img.shields.io/badge/Python-1a1035?style=for-the-badge&logo=python&logoColor=e8882a)
+![C++](https://img.shields.io/badge/C++-1a1035?style=for-the-badge&logo=cplusplus&logoColor=e8882a)
+![Java](https://img.shields.io/badge/Java-1a1035?style=for-the-badge&logo=openjdk&logoColor=e8882a)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1035?style=for-the-badge&logo=javascript&logoColor=e8882a)
+![Django](https://img.shields.io/badge/Django-1a1035?style=for-the-badge&logo=django&logoColor=3dd6c8)
+![Flask](https://img.shields.io/badge/Flask-1a1035?style=for-the-badge&logo=flask&logoColor=3dd6c8)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1035?style=for-the-badge&logo=opencv&logoColor=3dd6c8)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-1a1035?style=for-the-badge&logo=scikitlearn&logoColor=3dd6c8)
+![MySQL](https://img.shields.io/badge/MySQL-1a1035?style=for-the-badge&logo=mysql&logoColor=e8882a)
+![Azure](https://img.shields.io/badge/Azure-1a1035?style=for-the-badge&logo=microsoftazure&logoColor=e8882a)
+![Git](https://img.shields.io/badge/Git-1a1035?style=for-the-badge&logo=git&logoColor=7b4fa0)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1035?style=for-the-badge&logo=visualstudiocode&logoColor=7b4fa0)
 
 </div>
 
 ---
 
-## ◈ `dsa_vault.cpp` — Downhill Battle
+## `dsa_vault.cpp` — Downhill Battle
 
 <div align="center">
 
-```
-██████╗ ███████╗ █████╗     ██╗   ██╗ █████╗ ██╗  ████████╗
-██╔══██╗██╔════╝██╔══██╗    ██║   ██║██╔══██╗██║  ╚══██╔══╝
-██║  ██║███████╗███████║    ╚██╗ ██╔╝███████║██║     ██║
-██║  ██║╚════██║██╔══██║     ╚████╔╝ ██╔══██║███████╗██║
-██████╔╝███████║██║  ██║      ╚═══╝  ██║  ██║╚══════╝██║
-╚═════╝ ╚══════╝╚═╝  ╚═╝             ╚═╝  ╚═╝        ╚═╝
-```
-
-![Weapon](https://img.shields.io/badge/Weapon-C++-0c0a1e?style=for-the-badge&logo=cplusplus&logoColor=cc9933)
-![Track](https://img.shields.io/badge/Track-Data_Structures_%26_Algorithms-0c0a1e?style=for-the-badge&logoColor=9a6aaa)
-
-| Corner | Status | Difficulty |
-|:---|:---:|:---:|
-| Arrays & Strings | 🏁 Cleared | `★★★` |
-| Linked Lists | 🏁 Cleared | `★★☆` |
-| Stacks & Queues | 🏁 Cleared | `★★☆` |
-| Trees & Graphs | 🏁 Cleared | `★★★` |
-| Dynamic Programming | 🏁 Cleared | `★★★` |
-| Sorting & Searching | 🏁 Cleared | `★★☆` |
-| Recursion & Backtracking | 🏁 Cleared | `★★★` |
-| Heaps & Priority Queues | 🔄 In Progress | `★★★` |
+| Corner | Status |
+|:---|:---:|
+| Arrays & Strings | 🏁 Cleared |
+| Linked Lists | 🏁 Cleared |
+| Stacks & Queues | 🏁 Cleared |
+| Trees & Graphs | 🏁 Cleared |
+| Dynamic Programming | 🏁 Cleared |
+| Recursion & Backtracking | 🏁 Cleared |
+| Heaps & Priority Queues | 🔄 In Progress |
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> `dashboard.sh` — GitHub Stats
+## `dashboard.sh` — Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=17Zoras&theme=radical&background=0c0a1e&ring=cc9933&fire=cc2233&currStreakLabel=cc9933&border=5a3a8a&sideLabels=9a6aaa"/>
+<img src="https://streak-stats.demolab.com?user=17Zoras&theme=radical&background=1a1035&ring=e8882a&fire=e8882a&currStreakLabel=e8882a&border=7b4fa0&sideLabels=3dd6c8"/>
 
 <br/><br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=17Zoras&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0c0a1e&title_color=cc9933&icon_color=9a6aaa&text_color=e0d0c0&border_color=5a3a8a&rank_icon=github&cache_seconds=86400"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=17Zoras&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=1a1035&title_color=e8882a&icon_color=3dd6c8&text_color=e8d5c0&border_color=7b4fa0&rank_icon=github"/>
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17Zoras&layout=compact&theme=radical&bg_color=0c0a1e&title_color=cc9933&text_color=e0d0c0&border_color=5a3a8a&langs_count=6&hide=jupyter%20notebook,html,css&cache_seconds=86400"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17Zoras&layout=compact&theme=radical&bg_color=1a1035&title_color=e8882a&text_color=e8d5c0&border_color=7b4fa0&langs_count=6&hide=jupyter%20notebook,html,css"/>
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=17Zoras&theme=react-dark&bg_color=1a1035&color=e8882a&line=7b4fa0&point=3dd6c8&hide_border=false&border_radius=8&area=true&area_color=3d1f6b)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/Lksp9XBzd8Dcwo7uqj/giphy.gif" width="28"/> `activity_graph.sh` — The Pass
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=17Zoras&theme=react-dark&bg_color=0c0a1e&color=cc9933&line=5a3a8a&point=cc2233&hide_border=false&border_radius=8&area=true&area_color=5a3a8a)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## ◈ `snake_run.sh` — Contribution Trail
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/17Zoras/17Zoras/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## ◈ `projects.db` — Featured Builds
+## `projects.db` — Featured Builds
 
 <div align="center">
 
@@ -202,122 +122,59 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
   <tr>
     <td width="50%" valign="top">
       <h3>🐦 X Clone</h3>
-      <p><strong>Full Twitter/X UI clone</strong> — pixel-perfect layouts, fully responsive, zero frameworks.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-0c0a1e?style=flat-square&logo=html5&logoColor=cc9933"/>
-        <img src="https://img.shields.io/badge/CSS3-0c0a1e?style=flat-square&logo=css3&logoColor=cc9933"/>
-      </p>
-      <a href="https://github.com/17Zoras/x_clone">
-        <img src="https://img.shields.io/badge/View_Repo-cc9933?style=for-the-badge&logo=github&logoColor=0c0a1e"/>
-      </a>
+      <p>Full Twitter/X UI clone — pixel-perfect, fully responsive, zero frameworks.</p>
+      <img src="https://img.shields.io/badge/HTML5-1a1035?style=flat-square&logo=html5&logoColor=e8882a"/>
+      <img src="https://img.shields.io/badge/CSS3-1a1035?style=flat-square&logo=css3&logoColor=e8882a"/>
+      <br/><br/>
+      <a href="https://github.com/17Zoras/x_clone"><img src="https://img.shields.io/badge/View_Repo-e8882a?style=for-the-badge&logo=github&logoColor=1a1035"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>📊 India Population Analysis</h3>
-      <p><strong>World Bank demographic data</strong> — age distribution, population trends, visual storytelling.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0c0a1e?style=flat-square&logo=python&logoColor=cc9933"/>
-        <img src="https://img.shields.io/badge/Pandas-0c0a1e?style=flat-square&logo=pandas&logoColor=9a6aaa"/>
-        <img src="https://img.shields.io/badge/Matplotlib-0c0a1e?style=flat-square&logo=python&logoColor=cc2233"/>
-      </p>
-      <a href="https://github.com/17Zoras/SCT_DS_1">
-        <img src="https://img.shields.io/badge/View_Repo-cc9933?style=for-the-badge&logo=github&logoColor=0c0a1e"/>
-      </a>
+      <p>World Bank demographic data — age distribution, trends, visual storytelling.</p>
+      <img src="https://img.shields.io/badge/Python-1a1035?style=flat-square&logo=python&logoColor=e8882a"/>
+      <img src="https://img.shields.io/badge/Pandas-1a1035?style=flat-square&logo=pandas&logoColor=3dd6c8"/>
+      <br/><br/>
+      <a href="https://github.com/17Zoras/SCT_DS_1"><img src="https://img.shields.io/badge/View_Repo-e8882a?style=for-the-badge&logo=github&logoColor=1a1035"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🚢 Titanic EDA</h3>
-      <p><strong>Kaggle Titanic dataset</strong> — deep EDA on survival patterns. Clean data, sharp insights.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0c0a1e?style=flat-square&logo=python&logoColor=cc9933"/>
-        <img src="https://img.shields.io/badge/Seaborn-0c0a1e?style=flat-square&logo=python&logoColor=9a6aaa"/>
-        <img src="https://img.shields.io/badge/Jupyter-0c0a1e?style=flat-square&logo=jupyter&logoColor=cc2233"/>
-      </p>
-      <a href="https://github.com/17Zoras/SCT_DS_2">
-        <img src="https://img.shields.io/badge/View_Repo-cc9933?style=for-the-badge&logo=github&logoColor=0c0a1e"/>
-      </a>
+      <p>Kaggle Titanic dataset — deep EDA on survival patterns. Clean data, sharp insights.</p>
+      <img src="https://img.shields.io/badge/Python-1a1035?style=flat-square&logo=python&logoColor=e8882a"/>
+      <img src="https://img.shields.io/badge/Seaborn-1a1035?style=flat-square&logo=python&logoColor=3dd6c8"/>
+      <br/><br/>
+      <a href="https://github.com/17Zoras/SCT_DS_2"><img src="https://img.shields.io/badge/View_Repo-e8882a?style=for-the-badge&logo=github&logoColor=1a1035"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ Code Radar Solutions</h3>
-      <p><strong>Competitive problem solutions</strong> — algorithmic thinking, optimized C++ & Python.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-0c0a1e?style=flat-square&logo=cplusplus&logoColor=cc9933"/>
-        <img src="https://img.shields.io/badge/Python-0c0a1e?style=flat-square&logo=python&logoColor=9a6aaa"/>
-        <img src="https://img.shields.io/badge/DSA-0c0a1e?style=flat-square&logoColor=cc2233"/>
-      </p>
-      <a href="https://github.com/17Zoras/Code-Radar-Solutions">
-        <img src="https://img.shields.io/badge/View_Repo-cc9933?style=for-the-badge&logo=github&logoColor=0c0a1e"/>
-      </a>
+      <p>Competitive problem solutions — algorithmic thinking, optimized C++ & Python.</p>
+      <img src="https://img.shields.io/badge/C++-1a1035?style=flat-square&logo=cplusplus&logoColor=e8882a"/>
+      <img src="https://img.shields.io/badge/DSA-1a1035?style=flat-square&logoColor=3dd6c8"/>
+      <br/><br/>
+      <a href="https://github.com/17Zoras/Code-Radar-Solutions"><img src="https://img.shields.io/badge/View_Repo-e8882a?style=for-the-badge&logo=github&logoColor=1a1035"/></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## ◈ `currently_running.sh` — Now in Gear
-
-```bash
-$ status
-
-  Loading ML modules...          ████████░░  80%
-  Loading Computer Vision...     ██████░░░░  60%
-  Loading DSA (C++)...           █████████░  90%
-  Loading React / Full-Stack...  ████░░░░░░  40%
-  Loading caffeine...            ██████████ 100% ✓
-
-✓ Ready. No brakes on the downhill.
-
-Current Focus:
-  🧠  machine learning & computer vision
-  ⚔️  competitive DSA in C++ — chasing the fastest time
-  ⚛️  react & full-stack architecture
-  ☁️  cloud deployment on Azure
-  🏁  building things that matter
-```
-
----
-
-## `activity.log`
-
-```
-[✓] Learning Data Science & ML
-[✓] Building AI Projects
-[✓] Exploring Machine Learning
-[✓] DSA grinding in C++
-[→] Growing every day
-```
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> `connect_with_me.sh` — Pull Up
+## `connect.sh` — Pull Up
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/zorawarsingh170406">
-  <img src="https://img.shields.io/badge/LinkedIn-0c0a1e?style=for-the-badge&logo=linkedin&logoColor=cc9933"/>
+  <img src="https://img.shields.io/badge/LinkedIn-1a1035?style=for-the-badge&logo=linkedin&logoColor=e8882a"/>
 </a>
 &nbsp;
 <a href="https://github.com/17Zoras">
-  <img src="https://img.shields.io/badge/GitHub-0c0a1e?style=for-the-badge&logo=github&logoColor=9a6aaa"/>
+  <img src="https://img.shields.io/badge/GitHub-1a1035?style=for-the-badge&logo=github&logoColor=3dd6c8"/>
 </a>
 
 <br/><br/>
 
-```
-╔══════════════════════════════════════════════════╗
-║  🏁  Current Mission                             ║
-║                                                  ║
-║  Build Things That Hit the Redline               ║
-║  Learn Something New Every Day                   ║
-║  Turn Data Into Impact                           ║
-╚══════════════════════════════════════════════════╝
-```
-
 > _"No brakes on the downhill."_ 🏁
->
-> _Thanks for rolling through my corner of GitHub._
 
 </div>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cc9933,50:5a3a8a,100:0c0a1e&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8882a,40:7b4fa0,100:1a1035&height=120&section=footer&animation=fadeIn"/>
