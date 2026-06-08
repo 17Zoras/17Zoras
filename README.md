@@ -1,24 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/17Zoras/17Zoras/main/banner.gif" alt="17Zoras"/>
+<img width="100%" src="https://raw.githubusercontent.com/17Zoras/17Zoras/main/banner.gif" alt="17Zoras — No Brakes on the Downhill"/>
 
-</div>
+<br/>
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  REV://  17Zoras  ·  ZORAWAR SINGH  ·  ALWAYS_BUILDING       ║
-║  SYS:    CS STUDENT → ML ENGINEER  ·  CHITKARA UNIVERSITY     ║
-║  VER:    current  ·  UPTIME: always  ·  MOOD: locked in 🔴   ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=9D6EE8&center=true&vCenter=true&random=false&width=800&lines=hey%2C+i'm+Zorawar+%F0%9F%91%BE;ML+Engineer+%7C+Full-Stack+Dev+%7C+DSA+Racer+%E2%9A%A1;Computer+Vision+%7C+C%2B%2B+%7C+Python+%F0%9F%A7%A0;building+things+that+hit+the+redline.+%F0%9F%8F%81)](https://git.io/typing-svg)
 
-<div align="center">
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=17Zoras&label=PROFILE+VIEWS&color=9D6EE8&style=flat-square&labelColor=0d1117"/>
-&nbsp;
-<a href="https://github.com/17Zoras?tab=followers"><img src="https://img.shields.io/github/followers/17Zoras?label=FOLLOWERS&style=flat-square&color=9D6EE8&labelColor=0d1117"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-always__building-9D6EE8?style=flat-square&labelColor=0d1117"/>
+&nbsp;&nbsp;
+<a href="https://github.com/17Zoras?tab=followers">
+  <img src="https://img.shields.io/github/followers/17Zoras?label=FOLLOWERS&style=flat-square&color=9D6EE8&labelColor=0d1117"/>
+</a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CS_Student-Always_Learning-3d2060?style=flat-square&labelColor=0d1117"/>
 
 </div>
 
@@ -26,144 +22,262 @@
 
 ---
 
-## `[01]` — PROCESS INIT
+## 👾 `whoami.cpp`
+
+<br/>
 
 ```cpp
-// zorawar.hpp  —  do not modify. this runs on its own.
+/**
+ * @author  17Zoras
+ * @version current
+ * @status  always_building
+ */
 
-#pragma once
-#include <ambition.h>
-#include <obsession.h>
-#include <coffee.h>
+class Zorawar {
+public:
+    const string name   = "Zorawar Singh";
+    const string alias  = "17Zoras";
 
-namespace Seventeen {
-
-  struct Zorawar {
-
-    // identity
-    const char* name  = "Zorawar Singh";
-    const char* alias = "17Zoras";
-
-    // what i am
-    const char* stack[]  = { "C++", "Python", "Django", "OpenCV", "Flask" };
-    const char* domain[] = { "Machine Learning", "Computer Vision", "Full-Stack", "DSA" };
-
-    // what i'm doing right now
-    struct Active {
-      const char* learning  = "Deep Learning + MLOps";
-      const char* building  = "CV & full-stack projects that actually work";
-      const char* grinding  = "DSA — one problem, one pattern at a time";
-      const char* obsession = "writing code that doesn't apologise for itself";
+    vector<string> roles = {
+        "ML Engineer 🤖",
+        "Full-Stack Developer 🛠️",
+        "DSA Racer ⚡",
+        "Computer Vision Enthusiast 👁️"
     };
 
-    // the only rule
-    const char* motto = "No brakes on the downhill.";
+    map<string, string> currently = {
+        { "learning",  "Deep Learning + MLOps"        },
+        { "building",  "CV & Full-Stack Projects"      },
+        { "grinding",  "DSA — one problem at a time"   },
+        { "obsessed",  "writing clean, fast code"      }
+    };
 
-    void run() {
-      while (alive) {
-        think(); build(); ship(); repeat();
-      }
-    }
+    string motto = "No brakes on the downhill. 🏁";
 
-  };
-
-}  // namespace Seventeen
+    void run() { while (true) build(); }
+};
 ```
 
 <br/>
 
 ---
 
-## `[02]` — STACK INVENTORY
+## 🗂️ `about_me.txt`
+
+<br/>
 
 ```
-LANGUAGE     ████████████████████  C++, Python, Java, JavaScript
-ML / CV      ███████████████░░░░░  scikit-learn, OpenCV, NumPy, Pandas, Seaborn
-WEB          ████████████░░░░░░░░  Django, Flask, HTML5, CSS3
-INFRA        █████████░░░░░░░░░░░  Git, Azure, MySQL, Jupyter, VS Code
-LEVELLING    ████░░░░░░░░░░░░░░░░  Deep Learning, MLOps, Advanced DSA
+╔══════════════════════════════════════════════════════╗
+║           FILE: about_me.txt     STATUS: OPEN        ║
+╠═════════════════╦════════════════════════════════════╣
+║  Name           ║  Zorawar Singh                     ║
+║  Handle         ║  17Zoras                           ║
+║  Role           ║  CS Student → ML Engineer          ║
+║  Focus          ║  Machine Learning & Computer Vision║
+║  Learning       ║  Deep Learning, MLOps, DSA         ║
+║  Building       ║  Real-world AI Projects            ║
+║  Competing      ║  DSA & Competitive Coding          ║
+║  Stack          ║  C++, Python, Django, OpenCV       ║
+║  Goal           ║  Build things that actually matter ║
+║  Status         ║  Always in the zone ⚡              ║
+╚═════════════════╩════════════════════════════════════╝
 ```
+
+<br/>
+
+---
+
+## ⚡ `skills.json`
+
+<br/>
+
+```json
+{
+  "languages": ["C++", "Python", "Java", "JavaScript"],
+
+  "machine_learning": [
+    "scikit-learn", "OpenCV", "NumPy",
+    "Pandas", "Matplotlib", "Seaborn"
+  ],
+
+  "web_dev": ["Django", "Flask", "HTML5", "CSS3"],
+
+  "tools_and_infra": ["Git", "GitHub", "Azure", "MySQL", "Jupyter", "VS Code"],
+
+  "currently_leveling_up": [
+    "Deep Learning 🧠",
+    "MLOps ⚙️",
+    "Advanced DSA 🔢",
+    "Computer Vision at scale 👁️"
+  ],
+
+  "soft_skills": [
+    "obsessive attention to detail",
+    "problem decomposition",
+    "shipping things that work"
+  ]
+}
+```
+
+<br/>
+
+---
+
+## 🛠️ `stack --list`
 
 <div align="center">
 <br/>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,django,flask,opencv,mysql,azure,git,github,vscode,jupyter&theme=dark&perline=8"/>
 
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9D6EE8&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=9D6EE8&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=9D6EE8&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=9D6EE8&labelColor=0d1117)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=c9b8e8&labelColor=0d1117)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=c9b8e8&labelColor=0d1117)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=c9b8e8&labelColor=0d1117)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=c9b8e8&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=9D6EE8&labelColor=0d1117)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=9D6EE8&labelColor=0d1117)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=c9b8e8&labelColor=0d1117)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=c9b8e8&labelColor=0d1117)
+
 </div>
 
 <br/>
 
 ---
 
-## `[03]` — SHIPPED WORK
-
-<br/>
-
-> **rule:** if it isn't built, it isn't real.
-
-<br/>
-
-| # | project | what it actually is | stack | link |
-|---|---------|---------------------|-------|------|
-| 01 | **X Clone** | Twitter/X UI rebuilt from scratch. Zero frameworks. Every pixel intentional. | `HTML5` `CSS3` | [→ repo](https://github.com/17Zoras/x_clone) |
-| 02 | **Population Demographics** | World Bank age data → clean visual insight. Data that earns its chart. | `Python` `Pandas` `Matplotlib` | [→ repo](https://github.com/17Zoras/SCT_DS_1) |
-| 03 | **Titanic EDA** | Survival pattern analysis. Clean data. Sharp conclusions. No sloppy analysis survives. | `Python` `Seaborn` | [→ repo](https://github.com/17Zoras/SCT_DS_2) |
-| 04 | **Code Radar Solutions** | Competitive DSA. Optimised C++ & Python. Built to beat the clock. | `C++` `DSA` | [→ repo](https://github.com/17Zoras/Code-Radar-Solutions) |
-
-<br/>
-
----
-
-## `[04]` — CURRENT THREADS
-
-```bash
-$ ps aux --format=pid,stat,command | grep zorawar
-
-PID   STAT   COMMAND
-001   R+     deep_learning --track=fundamentals --pace=aggressive
-002   R+     computer_vision --focus=real_projects --lang=cpp,python
-003   S+     dsa_grind --lang=cpp --mode=one_problem_at_a_time
-004   S+     fullstack_build --stack=django,flask --goal=ship
-005   S      make_data_make_sense --always=true
-
-LOAD AVG:  high
-UPTIME:    always
-CAFFEINE:  ☕ sufficient
-```
-
-<br/>
-
----
-
-## `[05]` — COMMIT PHILOSOPHY
-
-```diff
-+ write clean, fast code — not code that merely runs
-+ push commits, not excuses
-+ grind one DSA pattern until it's automatic
-+ build ML models that solve actual problems
-+ turn academic knowledge into deployed things
-+ learn something before the day ends
-- write clever code no one else can read
-- over-engineer before validating
-- sleep when there's still something to ship  (working on this)
-```
-
-<br/>
-
----
-
-## `[06]` — NUMBERS
+## 🚀 `projects.db`
 
 <div align="center">
 <br/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=17Zoras&theme=transparent&background=0d1117&ring=9D6EE8&fire=9D6EE8&currStreakLabel=9D6EE8&border=3d2060&sideLabels=9D6EE8&sideNums=c9b8e8&currStreakNum=c9b8e8&dates=5a3a8a&stroke=5a3a8a"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=17Zoras&show_icons=true&theme=transparent&bg_color=0d1117&title_color=9D6EE8&icon_color=9D6EE8&text_color=c9b8e8&border_color=3d2060"/>
+```sql
+SELECT name, stack, vibe
+FROM projects
+WHERE built_with = 'fire'
+ORDER BY heat DESC;
+```
+
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐦 X Clone</h3>
+      <p>Pixel-perfect Twitter/X UI — fully responsive, zero frameworks.<br/>Pure frontend craft. No shortcuts.</p>
+      <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=9D6EE8"/>
+      <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=9D6EE8"/>
+      <br/><br/>
+      <a href="https://github.com/17Zoras/x_clone">
+        <img src="https://img.shields.io/badge/→_View_Repo-9D6EE8?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Population Demographics Analysis</h3>
+      <p>World Bank data — age distribution, demographic trends, visual storytelling.<br/>Data that speaks.</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9D6EE8"/>
+      <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=9D6EE8"/>
+      <br/><br/>
+      <a href="https://github.com/17Zoras/SCT_DS_1">
+        <img src="https://img.shields.io/badge/→_View_Repo-9D6EE8?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚢 Titanic EDA</h3>
+      <p>Deep survival pattern analysis on the Kaggle Titanic dataset.<br/>Clean data. Sharp insights. No survivors of sloppy analysis.</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9D6EE8"/>
+      <img src="https://img.shields.io/badge/Seaborn-0d1117?style=flat-square&logo=python&logoColor=9D6EE8"/>
+      <br/><br/>
+      <a href="https://github.com/17Zoras/SCT_DS_2">
+        <img src="https://img.shields.io/badge/→_View_Repo-9D6EE8?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Code Radar Solutions</h3>
+      <p>Competitive DSA solutions — optimized C++ & Python.<br/>Algorithmic thinking. Built to beat the clock.</p>
+      <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=9D6EE8"/>
+      <img src="https://img.shields.io/badge/DSA-0d1117?style=flat-square&logoColor=9D6EE8"/>
+      <br/><br/>
+      <a href="https://github.com/17Zoras/Code-Radar-Solutions">
+        <img src="https://img.shields.io/badge/→_View_Repo-9D6EE8?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## 🧠 `currently_running.sh`
+
+<br/>
+
+```bash
+$ ./status --verbose
+
+[  init  ]  Loading ML modules................. ✓
+[  init  ]  Loading DSA algorithms............. ✓
+[  init  ]  Loading Computer Vision toolkit.... ✓
+[  init  ]  Loading Full-Stack dev tools........ ✓
+[  init  ]  Loading caffeine................... ☕
+
+[ READY  ]  System operational. Let's build.
+
+──────────────────────────────────────────
+  ACTIVE THREADS:
+  ↳ Deep Learning concepts
+  ↳ Computer Vision projects
+  ↳ DSA grind (C++ optimized)
+  ↳ Full-Stack builds
+  ↳ Making data make sense
+──────────────────────────────────────────
+  UPTIME:  always
+  MOOD:    locked in 🎯
+──────────────────────────────────────────
+```
+
+<br/>
+
+---
+
+## 📋 `activity.log`
+
+<br/>
+
+```
+[✓]  Writing clean, optimized code — every single day
+[✓]  Grinding DSA — one problem, one pattern at a time
+[✓]  Building ML models that make real sense of data
+[✓]  Pushing commits, not excuses
+[✓]  Turning academic knowledge into actual projects
+[✓]  Learning something new before the day ends
+[~]  Sleeping (occasionally)
+```
+
+<br/>
+
+---
+
+## 📈 `stats --all`
+
+<div align="center">
+<br/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=17Zoras&theme=transparent&background=0d1117&ring=9D6EE8&fire=9D6EE8&currStreakLabel=9D6EE8&border=5a3a8a&sideLabels=9D6EE8&sideNums=c9b8e8&currStreakNum=c9b8e8&dates=5a3a8a&stroke=5a3a8a"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=17Zoras&bg_color=0d1117&color=9D6EE8&line=3d2060&point=9D6EE8&area=true&area_color=1a0f2e&border_color=3d2060&hide_border=false&radius=4"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=17Zoras&bg_color=0d1117&color=9D6EE8&line=5a3a8a&point=9D6EE8&area=true&area_color=3d2060&border_color=5a3a8a&hide_border=false&radius=8"/>
 
 </div>
 
@@ -171,7 +285,7 @@ CAFFEINE:  ☕ sufficient
 
 ---
 
-## `[07]` — CONTRIBUTION TRAIL
+## 🐍 `snake --contributions`
 
 <div align="center">
 <br/>
@@ -188,30 +302,42 @@ CAFFEINE:  ☕ sufficient
 
 ---
 
-## `[08]` — FIND ME
+## 🔗 `connect --open`
 
 <div align="center">
 <br/>
 
 <a href="https://www.linkedin.com/in/zorawarsingh170406">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=9D6EE8&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=9D6EE8"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/17Zoras">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=9D6EE8&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=9D6EE8"/>
 </a>
 
 <br/><br/>
 
 ```
-if you read this far — you're built different.
-now close the tab and go build something.
-
-                              — 17Zoras  🏁
+  🔥  Build things that hit the redline
+  📚  Learn something new before the day ends
+  📊  Turn raw data into real impact
+  ⚡  Ship. Iterate. Repeat.
 ```
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0f2e,100:3d2060&height=100&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3d2060,100:5a3a8a&height=2&width=600"/>
+
+<br/><br/>
+
+*"No brakes on the downhill."* &nbsp;🏁
+
+<br/>
+
+*glad you made it to the end. now go build something. 💜*
 
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3d2060,100:5a3a8a&height=120&section=footer&animation=fadeIn"/>
