@@ -23,9 +23,8 @@
 ```cpp
 class Zorawar {
 public:
-    string  name     = "Zorawar Singh";
-    string  alias    = "17Zoras";
-    string  location = "India 🇮🇳";
+    string  name   = "Zorawar Singh";
+    string  alias  = "17Zoras";
 
     vector<string> roles = { "ML Engineer", "Full-Stack Dev", "DSA Racer (C++)" };
     vector<string> focus = { "Machine Learning", "Computer Vision", "DSA" };
@@ -81,7 +80,7 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
       <a href="https://github.com/17Zoras/x_clone"><img src="https://img.shields.io/badge/View_Repo-9D6EE8?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 India Population Analysis</h3>
+      <h3>📊 Population Demographics Analysis</h3>
       <p>World Bank demographic data — age distribution, trends, visual storytelling.</p>
       <img src="https://img.shields.io/badge/Python-5a3a8a?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pandas-3d2060?style=flat-square&logo=pandas&logoColor=white"/>
@@ -115,17 +114,17 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=17Zoras&theme=radical&background=0d1117&ring=9D6EE8&fire=9D6EE8&currStreakLabel=9D6EE8&border=5a3a8a&sideLabels=9D6EE8"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=17Zoras&theme=transparent&background=0d1117&ring=9D6EE8&fire=9D6EE8&currStreakLabel=9D6EE8&border=5a3a8a&sideLabels=9D6EE8&sideNums=c9b8e8&currStreakNum=c9b8e8&dates=5a3a8a&stroke=5a3a8a"/>
 
 <br/><br/>
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=17Zoras&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9D6EE8&icon_color=9D6EE8&text_color=c9b8e8&border_color=5a3a8a&rank_icon=github"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=17Zoras&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9D6EE8&icon_color=9D6EE8&text_color=c9b8e8&border_color=5a3a8a&rank_icon=github&hide_border=false"/>
 &nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17Zoras&layout=compact&theme=radical&bg_color=0d1117&title_color=9D6EE8&text_color=c9b8e8&border_color=5a3a8a&langs_count=6&hide=jupyter%20notebook,html,css"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17Zoras&layout=compact&theme=transparent&bg_color=0d1117&title_color=9D6EE8&text_color=c9b8e8&border_color=5a3a8a&langs_count=6&hide=jupyter%20notebook,html,css&hide_border=false"/>
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=17Zoras&theme=react-dark&bg_color=0d1117&color=9D6EE8&line=5a3a8a&point=9D6EE8&hide_border=false&border_radius=8&area=true&area_color=3d2060)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=17Zoras&bg_color=0d1117&color=9D6EE8&line=5a3a8a&point=9D6EE8&area=true&area_color=3d2060&border_color=5a3a8a&hide_border=false&radius=8"/>
 
 </div>
 
