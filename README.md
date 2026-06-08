@@ -18,7 +18,7 @@
 
 ---
 
-## `> whoami` 👾
+## 👾 `> whoami`
 
 ```cpp
 class Zorawar {
@@ -34,7 +34,67 @@ public:
 
 ---
 
-## `> ls ./stack` 🛠️
+## 🗂️ `> cat about_me.txt`
+
+```
+┌─────────────────────────────────────────────┐
+│  FILE: about_me.txt            STATUS: OPEN  │
+├──────────────┬──────────────────────────────┤
+│  Name        │  Zorawar Singh               │
+│  Alias       │  17Zoras                     │
+│  Role        │  CS Student + ML Engineer    │
+│  Focus       │  Machine Learning & CV       │
+│  Learning    │  Deep Learning, MLOps, DSA   │
+│  Building    │  Real-world AI Projects      │
+│  Competing   │  DSA / Competitive Coding    │
+│  Goal        │  Build things that matter    │
+│  Status      │  Always in the zone ⚡        │
+└──────────────┴──────────────────────────────┘
+```
+
+---
+
+## ⚡ `> cat skills.json`
+
+```json
+{
+  "languages": [
+    "C++",
+    "Python",
+    "Java",
+    "JavaScript"
+  ],
+  "ml_and_cv": [
+    "scikit-learn",
+    "OpenCV",
+    "NumPy",
+    "Pandas",
+    "Matplotlib"
+  ],
+  "web": [
+    "Django",
+    "Flask",
+    "HTML5",
+    "CSS3"
+  ],
+  "tools": [
+    "Git",
+    "Azure",
+    "MySQL",
+    "VS Code",
+    "Jupyter"
+  ],
+  "currently_leveling_up": [
+    "Deep Learning 🧠",
+    "MLOps ⚙️",
+    "Advanced DSA 🔢"
+  ]
+}
+```
+
+---
+
+## 🛠️ `> ls ./stack`
 
 <div align="center">
 
@@ -59,7 +119,7 @@ public:
 
 ---
 
-## `> cat projects.db` 🗂️
+## 🚀 `> cat projects.db`
 
 <div align="center">
 
@@ -110,7 +170,41 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 
 ---
 
-## `> ./stats.sh` 📈
+## 🧠 `> ./currently_running.sh`
+
+```bash
+$ status
+
+Loading ML modules...
+Loading DSA algorithms...
+Loading Computer Vision toolkit...
+Loading caffeine... ☕
+
+✓ Ready
+
+Current Focus:
+→ Machine Learning & Deep Learning
+→ Computer Vision Projects
+→ Competitive DSA (C++)
+→ Full-Stack Dev
+→ Building things that actually work
+```
+
+---
+
+## 📋 `> cat activity.log`
+
+```
+[✓] Writing clean, optimized code every day
+[✓] Grinding DSA — one problem at a time
+[✓] Building ML models that make sense of data
+[✓] Pushing commits, not excuses
+[✓] Learning something new before sleeping
+```
+
+---
+
+## 📈 `> ./stats.sh`
 
 <div align="center">
 
@@ -118,15 +212,13 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 
 <br/><br/>
 
-
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=17Zoras&bg_color=0d1117&color=9D6EE8&line=5a3a8a&point=9D6EE8&area=true&area_color=3d2060&border_color=5a3a8a&hide_border=false&radius=8"/>
 
 </div>
 
 ---
 
-## `> ./snake.sh` 🐍
+## 🐍 `> ./snake.sh`
 
 <div align="center">
 
@@ -140,7 +232,7 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 
 ---
 
-## `> ./connect.sh` 🔗
+## 🔗 `> ./connect.sh`
 
 <div align="center">
 
@@ -154,11 +246,19 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 
 <br/><br/>
 
-`🔥 Build Things That Hit the Redline` &nbsp;·&nbsp; `📚 Learn Something New Every Day` &nbsp;·&nbsp; `📊 Turn Data Into Impact`
+```
+🔥 Build Things That Actually Work
+📚 Learn Something New Every Day  
+📊 Turn Data Into Impact
+```
 
 <br/>
 
 *"No brakes on the downhill."* 🏁
+
+<br/>
+
+*Thanks for pulling up to my corner of GitHub 💜*
 
 </div>
 
