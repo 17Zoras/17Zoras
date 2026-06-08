@@ -4,12 +4,6 @@
 
 <br/>
 
-<a href="https://github.com/17Zoras">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:1a0829,100:0d0d0d&height=60&text=ZORAWAR%20SINGH%20%E2%80%94%2017ZORAS&fontColor=9D6EE8&fontSize=20&fontAlign=50&fontAlignY=55&desc=CS%20Student%20%E2%86%92%20ML%20Engineer%20%7C%20Chitkara%20University&descAlign=50&descAlignY=80&descSize=11&descColor=6a3fa0&animation=fadeIn"/>
-</a>
-
-<br/><br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1500&color=9D6EE8&center=true&vCenter=true&random=false&width=700&lines=ML+Engineer+%7C+Computer+Vision+%7C+Full-Stack;C%2B%2B+%7C+Python+%7C+Django+%7C+OpenCV;DSA+Racer+%E2%9A%A1+%7C+Always+Building+%F0%9F%94%A5;No+brakes+on+the+downhill.+%F0%9F%8F%81)](https://git.io/typing-svg)
 
 <br/>
@@ -166,44 +160,48 @@ ORDER BY heat DESC;
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐦 X Clone</h3>
-      <p>Pixel-perfect Twitter/X UI — fully responsive, zero frameworks.<br/>Pure frontend craft. No shortcuts.</p>
-      <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=9D6EE8"/>
-      <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=9D6EE8"/>
+      <h3>🍔 UrbanEats Backend</h3>
+      <p>Production-grade REST API for a food delivery platform.<br/>Auth, orders, menus, real-time tracking — the full backend stack.</p>
+      <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=9D6EE8"/>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9D6EE8"/>
+      <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=9D6EE8"/>
       <br/><br/>
-      <a href="https://github.com/17Zoras/x_clone">
+      <a href="https://github.com/17Zoras">
         <img src="https://img.shields.io/badge/→_View_Repo-9D6EE8?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Population Demographics Analysis</h3>
-      <p>World Bank data — age distribution, demographic trends, visual storytelling.<br/>Data that speaks.</p>
+      <h3>🛡️ Guardian Angel</h3>
+      <p>Real-time safety & monitoring system.<br/>CV-powered detection meets intelligent alerting. Eyes that never blink.</p>
       <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9D6EE8"/>
-      <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=9D6EE8"/>
+      <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=9D6EE8"/>
+      <img src="https://img.shields.io/badge/ML-0d1117?style=flat-square&logoColor=9D6EE8"/>
       <br/><br/>
-      <a href="https://github.com/17Zoras/SCT_DS_1">
+      <a href="https://github.com/17Zoras">
         <img src="https://img.shields.io/badge/→_View_Repo-9D6EE8?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚢 Titanic EDA</h3>
-      <p>Deep survival pattern analysis on the Kaggle Titanic dataset.<br/>Clean data. Sharp insights. No survivors of sloppy analysis.</p>
+      <h3>🏙️ Tricity Insight Bot</h3>
+      <p>Hyperlocal intelligence for Chandigarh Tricity.<br/>Scrapes, processes, and delivers data-driven city insights on demand.</p>
       <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9D6EE8"/>
-      <img src="https://img.shields.io/badge/Seaborn-0d1117?style=flat-square&logo=python&logoColor=9D6EE8"/>
+      <img src="https://img.shields.io/badge/NLP-0d1117?style=flat-square&logoColor=9D6EE8"/>
+      <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=9D6EE8"/>
       <br/><br/>
-      <a href="https://github.com/17Zoras/SCT_DS_2">
+      <a href="https://github.com/17Zoras">
         <img src="https://img.shields.io/badge/→_View_Repo-9D6EE8?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Code Radar Solutions</h3>
-      <p>Competitive DSA solutions — optimised C++ & Python.<br/>Algorithmic thinking. Built to beat the clock.</p>
+      <h3>🤖 BotCore</h3>
+      <p>Modular bot framework built for scale.<br/>Plug-in architecture, command routing, event handling. Your bot's skeleton.</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=9D6EE8"/>
       <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=9D6EE8"/>
-      <img src="https://img.shields.io/badge/DSA-0d1117?style=flat-square&logoColor=9D6EE8"/>
+      <img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=9D6EE8"/>
       <br/><br/>
-      <a href="https://github.com/17Zoras/Code-Radar-Solutions">
+      <a href="https://github.com/17Zoras">
         <img src="https://img.shields.io/badge/→_View_Repo-9D6EE8?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
