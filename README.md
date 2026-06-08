@@ -1,21 +1,17 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  17Zoras — Initial D / Touge Racer GitHub Profile README          -->
-<!--  Warm amber · deep purple · soft smoke palette                    -->
-<!--  banner.svg lives at 17Zoras/17Zoras/banner.svg in your repo      -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  17Zoras — Touge Racer · ML Engineer · DSA Grinder    -->
+<!--  Palette: deep void · ember gold · smoke purple        -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<!-- 🔴 IMPORTANT: upload banner.svg to your 17Zoras/17Zoras repo first -->
-<!-- then this line will show your animated AE86 scene -->
-<img width="100%" src="https://raw.githubusercontent.com/17Zoras/17Zoras/main/banner.svg" alt="17Zoras — Drift · Code · ML · DSA · Redline"/>
-
+  <img src="https://media1.tenor.com/m/X3YUU7Rl_98AAAAC/drift-manga.gif" width="100%" style="border-radius:8px;" alt="Drift Manga Banner"/>
 </div>
 
-<!-- TYPING BANNER -->
+<br/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=CC9933&center=true&vCenter=true&random=false&width=780&lines=Yo%2C+I'm+Zorawar+%F0%9F%8F%8E%EF%B8%8F;ML+Engineer+%7C+Full-Stack+Dev+%7C+DSA+Racer;Computer+Vision+%7C+C%2B%2B+%7C+Python;Eyes+on+the+road%2C+hands+on+the+keys.;No+brakes+when+I'm+shipping+code.;There%27s+no+perfect+run+%E2%80%94+only+the+next+corner.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=CC9933&center=true&vCenter=true&random=false&width=720&lines=yo+%E2%80%94+i'm+Zorawar+%F0%9F%8F%8E%EF%B8%8F;ML+Engineer+%7C+Full-Stack+Dev+%7C+DSA+Racer;Computer+Vision+%7C+C%2B%2B+%7C+Python;Eyes+on+the+apex%2C+hands+on+the+keys.;No+brakes+when+shipping+code.;There%27s+no+perfect+run+%E2%80%94+only+the+next+corner.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,11 +27,11 @@
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0a1e,50:1a1030,100:0c0a1e&height=3"/>
 
----
+<br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> `driver_profile.cpp`
+## `driver_profile.cpp`
 
 ```cpp
 class Zorawar {
@@ -70,25 +66,28 @@ public:
         cout << "Welcome to the touge. Let's race some code. 🏁" << endl;
     }
 };
-
-int main() {
-    Zorawar me;
-    me.say_hi();   // output: Welcome to the touge. Let's race some code. 🏁
-    return 0;
-}
 ```
 
----
+<br/>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/> `garage.sh` — Tech Arsenal
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0a1e,50:1a1030,100:0c0a1e&height=3"/>
+
+<br/>
+
+## `garage.sh` — Tech Arsenal
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,django,flask,opencv,mysql,azure,git,github,vscode,jupyter&theme=dark&perline=8"/>
 
-<br/><br/>
+</div>
 
-**`// ENGINE — Languages`**
+<br/>
+
+<details>
+<summary><strong>// ENGINE — Languages</strong></summary>
+<br/>
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0c0a1e?style=for-the-badge&logo=python&logoColor=cc9933)
 ![C++](https://img.shields.io/badge/C++-0c0a1e?style=for-the-badge&logo=cplusplus&logoColor=cc9933)
@@ -97,7 +96,13 @@ int main() {
 ![HTML5](https://img.shields.io/badge/HTML5-0c0a1e?style=for-the-badge&logo=html5&logoColor=cc9933)
 ![CSS3](https://img.shields.io/badge/CSS3-0c0a1e?style=for-the-badge&logo=css3&logoColor=cc9933)
 
-**`// TURBO — Frameworks & Libraries`**
+</div>
+</details>
+
+<details>
+<summary><strong>// TURBO — Frameworks & Libraries</strong></summary>
+<br/>
+<div align="center">
 
 ![Django](https://img.shields.io/badge/Django-0c0a1e?style=for-the-badge&logo=django&logoColor=9a6aaa)
 ![Flask](https://img.shields.io/badge/Flask-0c0a1e?style=for-the-badge&logo=flask&logoColor=9a6aaa)
@@ -106,23 +111,32 @@ int main() {
 ![Pandas](https://img.shields.io/badge/Pandas-0c0a1e?style=for-the-badge&logo=pandas&logoColor=9a6aaa)
 ![NumPy](https://img.shields.io/badge/NumPy-0c0a1e?style=for-the-badge&logo=numpy&logoColor=9a6aaa)
 
-**`// PIT CREW — Databases & Cloud`**
+</div>
+</details>
+
+<details>
+<summary><strong>// PIT CREW — Databases & Cloud &nbsp;|&nbsp; WRENCHES — Tools</strong></summary>
+<br/>
+<div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-0c0a1e?style=for-the-badge&logo=mysql&logoColor=cc9933)
 ![Azure](https://img.shields.io/badge/Azure-0c0a1e?style=for-the-badge&logo=microsoftazure&logoColor=cc9933)
-
-**`// WRENCHES — Tools`**
-
+&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/Git-0c0a1e?style=for-the-badge&logo=git&logoColor=cc4466)
 ![GitHub](https://img.shields.io/badge/GitHub-0c0a1e?style=for-the-badge&logo=github&logoColor=cc4466)
 ![VS Code](https://img.shields.io/badge/VS_Code-0c0a1e?style=for-the-badge&logo=visualstudiocode&logoColor=cc4466)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0c0a1e?style=for-the-badge&logo=jupyter&logoColor=cc4466)
 
 </div>
+</details>
 
----
+<br/>
 
-## ◈ `dsa_vault.cpp` — Downhill Battle
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0a1e,50:1a1030,100:0c0a1e&height=3"/>
+
+<br/>
+
+## `dsa_vault.cpp` — Downhill Battle
 
 <div align="center">
 
@@ -134,9 +148,6 @@ int main() {
 ██████╔╝███████║██║  ██║      ╚═══╝  ██║  ██║╚══════╝██║
 ╚═════╝ ╚══════╝╚═╝  ╚═╝             ╚═╝  ╚═╝        ╚═╝
 ```
-
-![Weapon](https://img.shields.io/badge/Weapon-C++-0c0a1e?style=for-the-badge&logo=cplusplus&logoColor=cc9933)
-![Track](https://img.shields.io/badge/Track-Data_Structures_%26_Algorithms-0c0a1e?style=for-the-badge&logoColor=9a6aaa)
 
 | Corner | Status | Difficulty |
 |:---|:---:|:---:|
@@ -151,9 +162,13 @@ int main() {
 
 </div>
 
----
+<br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> `dashboard.sh` — GitHub Stats
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0a1e,50:1a1030,100:0c0a1e&height=3"/>
+
+<br/>
+
+## `dashboard.sh` — GitHub Stats
 
 <div align="center">
 
@@ -165,21 +180,15 @@ int main() {
 &nbsp;
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17Zoras&layout=compact&theme=radical&bg_color=0c0a1e&title_color=cc9933&text_color=e0d0c0&border_color=5a3a8a&langs_count=6&hide=jupyter%20notebook,html,css&cache_seconds=86400"/>
 
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/Lksp9XBzd8Dcwo7uqj/giphy.gif" width="28"/> `activity_graph.sh` — The Pass
-
-<div align="center">
+<br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=17Zoras&theme=react-dark&bg_color=0c0a1e&color=cc9933&line=5a3a8a&point=9a3a7a&hide_border=false&border_radius=8&area=true&area_color=5a3a8a)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<br/>
 
-## ◈ `snake_run.sh` — Contribution Trail
+## `snake_run.sh` — Contribution Trail
 
 <div align="center">
 
@@ -187,24 +196,29 @@ int main() {
 
 </div>
 
----
+<br/>
 
-## ◈ `projects.db` — Featured Builds
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0a1e,50:1a1030,100:0c0a1e&height=3"/>
+
+<br/>
+
+## `projects.db` — Featured Builds
 
 <div align="center">
 
 ```sql
--- warming up the grid...
 SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 ```
 
 </div>
 
+<br/>
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🐦 X Clone</h3>
-      <p><strong>Full Twitter/X UI clone</strong> — pixel-perfect layouts, fully responsive, zero frameworks. Pure HTML &amp; CSS precision.</p>
+      <p>Full Twitter/X UI clone — pixel-perfect layouts, fully responsive, zero frameworks. Pure HTML &amp; CSS precision.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-0c0a1e?style=flat-square&logo=html5&logoColor=cc9933"/>
         <img src="https://img.shields.io/badge/CSS3-0c0a1e?style=flat-square&logo=css3&logoColor=cc9933"/>
@@ -215,7 +229,7 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
     </td>
     <td width="50%" valign="top">
       <h3>📊 India Population Analysis</h3>
-      <p><strong>World Bank demographic data</strong> — age distribution, population trends, visual storytelling with Python.</p>
+      <p>World Bank demographic data — age distribution, population trends, visual storytelling with Python.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0c0a1e?style=flat-square&logo=python&logoColor=cc9933"/>
         <img src="https://img.shields.io/badge/Pandas-0c0a1e?style=flat-square&logo=pandas&logoColor=9a6aaa"/>
@@ -229,7 +243,7 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
   <tr>
     <td width="50%" valign="top">
       <h3>🚢 Titanic EDA</h3>
-      <p><strong>Kaggle Titanic dataset</strong> — deep EDA on survival patterns by class, age, gender. Clean data, sharp insights.</p>
+      <p>Kaggle Titanic dataset — deep EDA on survival patterns by class, age, gender. Clean data, sharp insights.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0c0a1e?style=flat-square&logo=python&logoColor=cc9933"/>
         <img src="https://img.shields.io/badge/Seaborn-0c0a1e?style=flat-square&logo=python&logoColor=9a6aaa"/>
@@ -241,7 +255,7 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
     </td>
     <td width="50%" valign="top">
       <h3>⚡ Code Radar Solutions</h3>
-      <p><strong>Competitive problem solutions</strong> — algorithmic thinking, optimized C++ &amp; Python, clean readable code.</p>
+      <p>Competitive problem solutions — algorithmic thinking, optimized C++ &amp; Python, clean readable code.</p>
       <p>
         <img src="https://img.shields.io/badge/C++-0c0a1e?style=flat-square&logo=cplusplus&logoColor=cc9933"/>
         <img src="https://img.shields.io/badge/Python-0c0a1e?style=flat-square&logo=python&logoColor=9a6aaa"/>
@@ -254,44 +268,40 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
   </tr>
 </table>
 
----
+<br/>
 
-## ◈ `currently_running.sh` — Now in Gear
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0a1e,50:1a1030,100:0c0a1e&height=3"/>
+
+<br/>
+
+## `currently_running.sh`
 
 ```bash
-$ status
+$ status --verbose
 
-  Loading ML modules...          ████████░░  80%
-  Loading Computer Vision...     ██████░░░░  60%
-  Loading DSA (C++)...           █████████░  90%
-  Loading React / Full-Stack...  ████░░░░░░  40%
-  Loading caffeine...            ██████████ 100% ✓
+  ML modules .....................  ████████░░  80%
+  Computer Vision .................  ██████░░░░  60%
+  DSA in C++ ......................  █████████░  90%
+  React / Full-Stack ..............  ████░░░░░░  40%
+  Caffeine ........................  ██████████ 100% ✓
 
-✓ Ready.
+System ready. All cylinders firing.
 
-Current Focus:
+Focus:
   🧠  machine learning & computer vision
-  ⚔️  competitive DSA in C++ — chasing the fastest time
-  ⚛️  react & full-stack architecture
-  ☁️  cloud deployment on Azure
+  ⚔️   competitive DSA in C++ — chasing the fastest time
+  ⚛️   react & full-stack architecture
+  ☁️   cloud deployment on Azure
   🏁  building things that matter
 ```
 
----
+<br/>
 
-## `activity.log`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0a1e,50:1a1030,100:0c0a1e&height=3"/>
 
-```
-[✓] Learning Data Science & ML
-[✓] Building AI Projects
-[✓] Exploring Machine Learning
-[✓] DSA grinding in C++
-[→] Growing every day
-```
+<br/>
 
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> `connect_with_me.sh` — Pull Up
+## `connect.sh` — Pull Up
 
 <div align="center">
 
@@ -306,20 +316,22 @@ Current Focus:
 <br/><br/>
 
 ```
-╔══════════════════════════════════════════════════╗
-║  🏁  Current Mission                             ║
-║                                                  ║
-║  Build Things That Hit the Redline               ║
-║  Learn Something New Every Day                   ║
-║  Turn Data Into Impact                           ║
-╚══════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║  🏁  Current Mission                         ║
+║                                              ║
+║  Build Things That Hit the Redline           ║
+║  Learn Something New Every Day               ║
+║  Turn Data Into Impact                       ║
+╚══════════════════════════════════════════════╝
 ```
 
-> _"Don't think. Feel the corner — then write the code."_ 🏁
+> *"Don't think. Feel the corner — then write the code."* 🏁
 >
-> _Thanks for rolling through my corner of GitHub._
+> *Thanks for rolling through my corner of GitHub.*
 
 </div>
+
+<br/>
 
 <!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:cc9933,50:5a3a8a,100:0c0a1e&height=120&section=footer&animation=fadeIn"/>
