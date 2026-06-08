@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=9D6EE8&center=true&vCenter=true&random=false&width=780&lines=ML+Engineer+%7C+Full-Stack+Dev+%7C+DSA+Racer;Computer+Vision+%7C+C%2B%2B+%7C+Python;No+brakes+on+the+downhill.+%F0%9F%8F%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=9D6EE8&center=true&vCenter=true&random=false&width=780&lines=ML+Engineer+%7C+Full-Stack+Dev+%7C+DSA+Racer+%E2%9A%A1;Computer+Vision+%7C+C%2B%2B+%7C+Python+%F0%9F%A7%A0;No+brakes+on+the+downhill.+%F0%9F%8F%81)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## `> whoami`
+## `> whoami` 👾
 
 ```cpp
 class Zorawar {
@@ -26,15 +26,15 @@ public:
     string  name   = "Zorawar Singh";
     string  alias  = "17Zoras";
 
-    vector<string> roles = { "ML Engineer", "Full-Stack Dev", "DSA Racer (C++)" };
-    vector<string> focus = { "Machine Learning", "Computer Vision", "DSA" };
-    string         motto = "No brakes on the downhill.";
+    vector<string> roles = { "ML Engineer 🤖", "Full-Stack Dev 🛠️", "DSA Racer ⚡" };
+    vector<string> focus = { "Machine Learning 🧠", "Computer Vision 👁️", "DSA 🔢" };
+    string         motto = "No brakes on the downhill. 🏁";
 };
 ```
 
 ---
 
-## `> ls ./stack`
+## `> ls ./stack` 🛠️
 
 <div align="center">
 
@@ -59,7 +59,7 @@ public:
 
 ---
 
-## `> cat projects.db`
+## `> cat projects.db` 🗂️
 
 <div align="center">
 
@@ -73,7 +73,7 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
   <tr>
     <td width="50%" valign="top">
       <h3>🐦 X Clone</h3>
-      <p>Full Twitter/X UI clone — pixel-perfect, fully responsive, zero frameworks.</p>
+      <p>Full Twitter/X UI clone — pixel-perfect, fully responsive, zero frameworks. Pure craft.</p>
       <img src="https://img.shields.io/badge/HTML5-5a3a8a?style=flat-square&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-5a3a8a?style=flat-square&logo=css3&logoColor=white"/>
       <br/><br/>
@@ -81,7 +81,7 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
     </td>
     <td width="50%" valign="top">
       <h3>📊 Population Demographics Analysis</h3>
-      <p>World Bank demographic data — age distribution, trends, visual storytelling.</p>
+      <p>World Bank demographic data — age distribution, trends, visual storytelling. Data hits different.</p>
       <img src="https://img.shields.io/badge/Python-5a3a8a?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pandas-3d2060?style=flat-square&logo=pandas&logoColor=white"/>
       <br/><br/>
@@ -91,7 +91,7 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
   <tr>
     <td width="50%" valign="top">
       <h3>🚢 Titanic EDA</h3>
-      <p>Kaggle Titanic dataset — deep EDA on survival patterns. Clean data, sharp insights.</p>
+      <p>Kaggle Titanic dataset — deep EDA on survival patterns. Clean data, sharp insights, no survivors (of bad analysis).</p>
       <img src="https://img.shields.io/badge/Python-5a3a8a?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Seaborn-3d2060?style=flat-square&logo=python&logoColor=white"/>
       <br/><br/>
@@ -99,7 +99,7 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
     </td>
     <td width="50%" valign="top">
       <h3>⚡ Code Radar Solutions</h3>
-      <p>Competitive DSA solutions — algorithmic thinking, optimized C++ & Python.</p>
+      <p>Competitive DSA solutions — algorithmic thinking, optimized C++ & Python. Built to beat the clock.</p>
       <img src="https://img.shields.io/badge/C++-5a3a8a?style=flat-square&logo=cplusplus&logoColor=white"/>
       <img src="https://img.shields.io/badge/DSA-3d2060?style=flat-square&logoColor=white"/>
       <br/><br/>
@@ -110,7 +110,7 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 
 ---
 
-## `> ./stats.sh`
+## `> ./stats.sh` 📈
 
 <div align="center">
 
@@ -130,7 +130,7 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 
 ---
 
-## `> ./snake.sh`
+## `> ./snake.sh` 🐍
 
 <div align="center">
 
@@ -144,7 +144,7 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 
 ---
 
-## `> ./connect.sh`
+## `> ./connect.sh` 🔗
 
 <div align="center">
 
@@ -158,7 +158,7 @@ SELECT * FROM projects WHERE status = 'built_with_fire' ORDER BY heat DESC;
 
 <br/><br/>
 
-`Build Things That Hit the Redline` &nbsp;·&nbsp; `Learn Something New Every Day` &nbsp;·&nbsp; `Turn Data Into Impact`
+`🔥 Build Things That Hit the Redline` &nbsp;·&nbsp; `📚 Learn Something New Every Day` &nbsp;·&nbsp; `📊 Turn Data Into Impact`
 
 <br/>
 
