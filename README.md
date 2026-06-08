@@ -24,7 +24,7 @@
 
 <br/>
 
-## `[01]` &nbsp;📡 whoami.cpp
+## `[01]` &nbsp;📡 Goat.cpp
 
 ```cpp
 // zorawar.hpp  —  do not modify. this runs on its own.
@@ -32,7 +32,7 @@
 #pragma once
 #include <ambition.h>
 #include <obsession.h>
-#include <coffee.h>
+#include <DietCoke.h>
 
 namespace Seventeen {
 
