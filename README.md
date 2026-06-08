@@ -41,7 +41,7 @@ public:
     vector<string> roles = {
         "ML Engineer 🤖",
         "Full-Stack Developer 🛠️",
-        "DSA Racer ⚡",
+        "DSA Racer 🏎️",
         "Computer Vision Enthusiast 👁️"
     };
 
@@ -62,7 +62,7 @@ public:
 
 ---
 
-## 🗂️ `about_me.txt`
+## 🚀 `about_me.txt`
 
 <br/>
 
@@ -87,7 +87,7 @@ public:
 
 ---
 
-## ⚡ `skills.json`
+## ⚜️ `skills.json`
 
 <br/>
 
@@ -151,7 +151,7 @@ public:
 
 ---
 
-## 🚀 `projects.db`
+## 🗂️ `projects.db`
 
 <div align="center">
 <br/>
@@ -334,7 +334,7 @@ $ ./status --verbose
 
 <br/>
 
-*glad you made it to the end. now go build something. 💜*
+*Congrats you made it to the end. now go Rev Up. 🏎️💨 *
 
 </div>
 
